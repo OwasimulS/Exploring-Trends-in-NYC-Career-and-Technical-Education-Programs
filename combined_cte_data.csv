@@ -1,0 +1,1138 @@
+dbn,school_name,cte_designated_high_school,program_cip_code,program_name,industry_cluster,number_of_industry_partners,is_nysed_approved,grade_levels_served,enrolled_student_counts,number_of_school_staff,year,number_of_staff_attending
+02M135,The Urban Assembly School for Emergency Management,True,439999,"Security and Protective Services, Other",Law and Public Safety Cluster,2,Non-Approved,9101112,298,0,2016-2017,
+02M139,Stephen T. Mather Building Arts & Craftsmanship Hi,True,469999,"Construction Trades, Other",Architecture and Construction Cluster,2,Approved,101112,156,1,2016-2017,
+02M280,Manhattan Early College School for Advertising,True,110899,"Computer Software and Media Applications, Other",Information Technology Cluster,2,Non-Approved,91011,265,2,2016-2017,
+02M282,Urban Assembly Maker Academy,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,1,Non-Approved,1011,35,1,2016-2017,
+02M282,Urban Assembly Maker Academy,True,110899,"Computer Software and Media Applications, Other",Information Technology Cluster,2,Non-Approved,91011,246,1,2016-2017,
+02M282,Urban Assembly Maker Academy,True,151299,"Computer Engineering Technologies/Technician, Other",Information Technology Cluster,2,Non-Approved,11,2,1,2016-2017,
+02M288,Food and Finance High School,True,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,5,Approved,9101112,387,6,2016-2017,
+02M392,MANHATTAN BUSINESS ACADEMY,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,5,Approved,9101112,416,2,2016-2017,
+02M393,Business Of Sports School,True,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,6,Approved,9101112,308,4,2016-2017,
+02M420,High School for Health Professions and Human Servi,False,510802,Clinical/Medical Laboratory Assistant,Health Science Cluster,4,Non-Approved,101112,316,3,2016-2017,
+02M489,High School of Economics and Finance,False,520304,Accounting and Finance,Business Management and Administration Cluster,5,Non-Approved,9101112,689,4,2016-2017,
+02M489,High School of Economics and Finance,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Non-Approved,1112,60,4,2016-2017,
+02M507,Urban Assembly Gateway School for Technology,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,2,Non-Approved,9101112,78,2,2016-2017,
+02M507,Urban Assembly Gateway School for Technology,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",4,Approved,9101112,143,2,2016-2017,
+02M507,Urban Assembly Gateway School for Technology,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,3,Approved,9101112,234,2,2016-2017,
+02M519,Talent Unlimited High School,False,500301,"Dance, General","Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,1112,42,0,2016-2017,
+02M519,Talent Unlimited High School,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,9101112,100,0,2016-2017,
+02M520,Murry Bergtraum High School for Business Careers,False,430107,Criminal Justice/Police Science,Law and Public Safety Cluster,0,Non-Approved,,0,0,2016-2017,
+02M520,Murry Bergtraum High School for Business Careers,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,,0,0,2016-2017,
+02M529,Jacqueline Kennedy Onassis High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,7,Non-Approved,9101112,240,7,2016-2017,
+02M529,Jacqueline Kennedy Onassis High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,3,Non-Approved,9101112,306,7,2016-2017,
+02M533,Union Square Academy for Health Sciences,True,510603,Dental Laboratory Technology/Technician,Health Science Cluster,3,Approved,9101112,202,6,2016-2017,
+02M533,Union Square Academy for Health Sciences,True,510805,Pharmacy Technician/Assistant,Health Science Cluster,4,Approved,9101112,200,6,2016-2017,
+02M542,Manhattan Bridges High School,False,110101,"Computer and Information Sciences, General",Information Technology Cluster,2,Non-Approved,9101112,329,4,2016-2017,
+02M542,Manhattan Bridges High School,False,151304,Civil Drafting and Civil Engineering CAD/CADD,Manufacturing Production Cluster,2,Non-Approved,9101112,163,4,2016-2017,
+02M546,Academy for Software Engineering,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,3,Non-Approved,9101112,444,4,2016-2017,
+02M551,Urban Assembly New York Harbor School,True,10303,Aquaculture,"Agriculture, Food and Natural Resources Cluster",2,Approved,9101112,81,6,2016-2017,
+02M551,Urban Assembly New York Harbor School,True,30205,"Water, Wetlands and Marine Resources Management","Agriculture, Food and Natural Resources Cluster",3,Approved,9101112,76,6,2016-2017,
+02M551,Urban Assembly New York Harbor School,True,150405,Robotics Technology/Technician,Manufacturing Production Cluster,2,Approved,9101112,72,6,2016-2017,
+02M551,Urban Assembly New York Harbor School,True,470616,Marine Maintenance/Fitter and Ship Repair Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,9101112,71,6,2016-2017,
+02M551,Urban Assembly New York Harbor School,True,490399,"Marine Transportation, Other","Transportation, Distribution and Logistics Cluster",2,Non-Approved,9101112,74,6,2016-2017,
+02M551,Urban Assembly New York Harbor School,True,490309,Marine Science/Merchant Marine Officer,"Transportation, Distribution and Logistics Cluster",2,Approved,9101112,73,6,2016-2017,
+02M600,The High School of Fashion Industries,True,190905,Apparel and Textile Marketing Management,Marketing Sales and Services Cluster,2,Approved,9101112,249,5,2016-2017,
+02M600,The High School of Fashion Industries,True,500407,Fashion/Apparel Design,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,9101112,997,5,2016-2017,
+02M600,The High School of Fashion Industries,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,9101112,354,5,2016-2017,
+02M600,The High School of Fashion Industries,True,521902,Fashion Merchandising,Marketing Sales and Services Cluster,2,Approved,101112,58,5,2016-2017,
+02M615,Chelsea Career and Technical Education High School,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,9101112,291,12,2016-2017,
+02M615,Chelsea Career and Technical Education High School,True,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,2,Approved,9101112,49,12,2016-2017,
+02M615,Chelsea Career and Technical Education High School,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,3,Non-Approved,9101112,76,12,2016-2017,
+02M630,Art and Design High School,True,100303,Prepress/Desktop Publishing and Digital Imaging Design,Manufacturing Production Cluster,3,Approved,9101112,731,23,2016-2017,
+02M630,Art and Design High School,True,100304,"Animation, Interactive Technology, Video Graphics and Special Effects",Manufacturing Production Cluster,2,Approved,9101112,164,23,2016-2017,
+02M630,Art and Design High School,True,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,3,Approved,9101112,78,23,2016-2017,
+02M630,Art and Design High School,True,500406,Commercial Photography,"Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,9101112,46,23,2016-2017,
+02M630,Art and Design High School,True,500407,Fashion/Apparel Design,"Arts, Audio/Video Technology and Communications Cluster",4,Non-Approved,9101112,75,23,2016-2017,
+02M630,Art and Design High School,True,500410,Illustration,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,9101112,236,23,2016-2017,
+02M630,Art and Design High School,True,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,49,23,2016-2017,
+03M299,The Maxine Greene HS for Imaginative Inquiry,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Non-Approved,9101112,156,5,2016-2017,
+03M402,The Urban Assembly School for Green Careers,True,10601,"Applied Horticulture/Horticultural Operations, General","Agriculture, Food and Natural Resources Cluster",2,Non-Approved,9101112,145,1,2016-2017,
+03M402,The Urban Assembly School for Green Careers,True,460401,Building/Property Maintenance and Manager,Architecture and Construction Cluster,1,Approved,9101112,159,1,2016-2017,
+03M485,Fiorello H. LaGuardia High School of Music & Art a,False,500301,"Dance, General","Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,234,1,2016-2017,
+03M485,Fiorello H. LaGuardia High School of Music & Art a,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,333,1,2016-2017,
+03M485,Fiorello H. LaGuardia High School of Music & Art a,False,500502,Technical Theater/Theater Design and Technology,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,9101112,102,1,2016-2017,
+05M157,The Urban Assembly School for Global Commerce,True,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,2,Non-Approved,101112,60,6,2016-2017,
+05M157,The Urban Assembly School for Global Commerce,True,520203,Logistics and Materials Management,"Transportation, Distribution and Logistics Cluster",2,Non-Approved,9101112,177,6,2016-2017,
+05M362,Columbia Secondary School,False,150101,Architectural Engineering Technology/Technician,Architecture and Construction Cluster,2,Non-Approved,9101112,383,3,2016-2017,
+06M211,Inwood Early College for Health and Information Te,True,110103,Information Technology,Information Technology Cluster,3,Non-Approved,91011,276,11,2016-2017,
+06M467,High School for Law and Public Service,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,3,Non-Approved,9101112,362,8,2016-2017,
+07X259,"H.E.R.O. High (Health, Education, and Research Occ",True,511613,Licensed Practical/Vocational Nurse Training,Health Science Cluster,2,Non-Approved,9101112,446,1,2016-2017,
+07X522,Bronx Design and Construction Academy,True,150501,"Heating, Air Conditioning and Refrigeration Technology/Technician",Scientific Research and Engineering Cluster,3,Approved,9101112,144,17,2016-2017,
+07X522,Bronx Design and Construction Academy,True,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,2,Approved,9101112,108,17,2016-2017,
+07X522,Bronx Design and Construction Academy,True,460201,Carpentry/Carpenter,Architecture and Construction Cluster,3,Approved,9101112,107,17,2016-2017,
+07X522,Bronx Design and Construction Academy,True,460302,Electrician,Architecture and Construction Cluster,2,Approved,9101112,95,17,2016-2017,
+07X522,Bronx Design and Construction Academy,True,460503,Plumbing Technology/Plumber,Architecture and Construction Cluster,1,Non-Approved,9101112,50,17,2016-2017,
+07X600,Alfred E. Smith Career and Technical Education Hig,True,470603,Autobody/Collision and Repair Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Non-Approved,101112,56,9,2016-2017,
+07X600,Alfred E. Smith Career and Technical Education Hig,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,9101112,292,9,2016-2017,
+07X600,Alfred E. Smith Career and Technical Education Hig,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",5,Approved,9101112,80,9,2016-2017,
+08X405,Herbert H. Lehman High School,False,110103,Information Technology,Information Technology Cluster,1,Non-Approved,9101112,182,5,2016-2017,
+08X405,Herbert H. Lehman High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,29,5,2016-2017,
+08X519,Felisa Rincon de Gautier Institute for Law and Pub,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,168,2,2016-2017,
+09X365,Academy for Language and Technology,False,110103,Information Technology,Information Technology Cluster,1,Approved,9101112,159,4,2016-2017,
+09X365,Academy for Language and Technology,False,110899,"Computer Software and Media Applications, Other",Information Technology Cluster,1,Approved,101112,144,4,2016-2017,
+09X403,Bronx International High School,False,151001,Construction Engineering Technology/Technician,Architecture and Construction Cluster,3,Non-Approved,9101112,363,6,2016-2017,
+09X412,Bronx High School of Business,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Non-Approved,9101112,149,1,2016-2017,
+10X213,Bronx Engineering and Technology Academy,False,151399,"Drafting/Design Engineering Technologies/Technicians, Other",Manufacturing Production Cluster,1,Approved,9101112,242,5,2016-2017,
+10X264,Bronx Academy for Software Engineering (BASE),True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,3,Non-Approved,9101112,426,2,2016-2017,
+10X284,Bronx School of Law and Finance,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,99,4,2016-2017,
+10X284,Bronx School of Law and Finance,False,520304,Accounting and Finance,Business Management and Administration Cluster,2,Non-Approved,9101112,189,4,2016-2017,
+10X368,In-Tech Academy (M.S. / High School 368),False,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,1,Approved,9101112,153,6,2016-2017,
+10X368,In-Tech Academy (M.S. / High School 368),False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Approved,9101112,159,6,2016-2017,
+10X437,Fordham High School for the Arts,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,120,0,2016-2017,
+10X439,Bronx High School for Law and Community Service,False,430107,Criminal Justice/Police Science,Law and Public Safety Cluster,8,Non-Approved,9101112,172,1,2016-2017,
+10X524,Crotona International High School,True,100203,Recording Arts Technology/Technician,"Arts, Audio/Video Technology and Communications Cluster",8,Approved,9101112,300,2,2016-2017,
+10X565,High School for Energy and Technology,True,460401,Building/Property Maintenance and Manager,Architecture and Construction Cluster,1,Non-Approved,9101112,139,2,2016-2017,
+11X270,Academy for Scholarship and Entrepreneurship: A Co,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,5,Approved,9101112,332,1,2016-2017,
+11X275,High School of Computers and Technology,True,151202,Computer Technology/Computer Systems Technology,Information Technology Cluster,2,Approved,9101112,516,5,2016-2017,
+11X418,Bronx High School for the Visual Arts,False,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",1,Approved,9101112,388,3,2016-2017,
+11X508,Bronxdale High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,4,Non-Approved,101112,189,2,2016-2017,
+13K419,"Science Skills Center High School for Science, Tec",False,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,1,Non-Approved,9101112,233,0,2016-2017,
+13K430,Brooklyn Technical High School,False,90102,Mass Communications/Media Studies,"Arts, Audio/Video Technology and Communications Cluster",5,Approved,9101112,697,4,2016-2017,
+13K430,Brooklyn Technical High School,False,150405,Robotics Technology/Technician,Manufacturing Production Cluster,2,Approved,9101112,1231,4,2016-2017,
+13K430,Brooklyn Technical High School,False,151301,"Drafting and Design Technology/Technician, General",Manufacturing Production Cluster,1,Approved,9101112,1801,4,2016-2017,
+13K430,Brooklyn Technical High School,False,430103,Criminal Justice/Law Enforcement Administration,Law and Public Safety Cluster,11,Non-Approved,9101112,603,4,2016-2017,
+13K605,George Westinghouse Career and Technical Education,True,111004,Web/Multimedia Management and Webmaster,Information Technology Cluster,1,Non-Approved,1112,45,12,2016-2017,
+13K605,George Westinghouse Career and Technical Education,True,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,3,Approved,9101112,385,12,2016-2017,
+13K605,George Westinghouse Career and Technical Education,True,151202,Computer Technology/Computer Systems Technology,Information Technology Cluster,3,Non-Approved,101112,93,12,2016-2017,
+13K605,George Westinghouse Career and Technical Education,True,460302,Electrician,Architecture and Construction Cluster,3,Approved,101112,100,12,2016-2017,
+13K674,"City Polytechnic High School of Engineering, Archi",True,150101,Architectural Engineering Technology/Technician,Architecture and Construction Cluster,3,Approved,9101112,349,1,2016-2017,
+14K477,School for Legal Studies,False,430107,Criminal Justice/Police Science,Law and Public Safety Cluster,9,Non-Approved,9101112,234,4,2016-2017,
+14K478,"The High School for Enterprise, Business and Techn",False,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,2,Approved,9101112,493,9,2016-2017,
+14K478,"The High School for Enterprise, Business and Techn",False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,6,Approved,9101112,356,9,2016-2017,
+14K558,Williamsburg High School for Architecture and Desi,True,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,3,Approved,9101112,559,3,2016-2017,
+14K610,Automotive High School,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",5,Approved,9101112,230,6,2016-2017,
+15K497,The Boerum Hill School for International Studies,False,120599,"Culinary Arts and Related Services, Other",Hospitality and Tourism Cluster,5,Approved,9101112,157,1,2016-2017,
+15K519,Cobble Hill School of American Studies,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,399,3,2016-2017,
+16K455,Boys and Girls High School,False,460302,Electrician,Architecture and Construction Cluster,1,Non-Approved,9101112,204,3,2016-2017,
+16K688,The Brooklyn Academy of Global Finance,False,520801,"Finance, General",Finance Cluster,4,Non-Approved,9101112,69,4,2016-2017,
+21K410,Abraham Lincoln High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Non-Approved,9101112,122,2,2016-2017,
+17K122,Pathways in Technology Early College High School (,True,150403,Electromechanical Technology/Electromechanical Engineering Technology,Manufacturing Production Cluster,1,Non-Approved,1112,30,1,2016-2017,
+17K122,Pathways in Technology Early College High School (,True,151202,Computer Technology/Computer Systems Technology,Information Technology Cluster,2,Non-Approved,101112,181,1,2016-2017,
+17K408,Academy of Hospitality and Tourism,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,1,Non-Approved,9101112,147,4,2016-2017,
+17K548,Brooklyn School for Music & Theatre,False,500502,Technical Theater/Theater Design and Technology,"Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,9101112,160,2,2016-2017,
+17K600,Clara Barton High School,True,510601,Dental Assisting/Assistant,Health Science Cluster,3,Approved,9101112,146,18,2016-2017,
+17K600,Clara Barton High School,True,510603,Dental Laboratory Technology/Technician,Health Science Cluster,3,Approved,9101112,134,18,2016-2017,
+17K600,Clara Barton High School,True,511006,Ophthalmic Laboratory Technology/Technician,Health Science Cluster,2,Non-Approved,9101112,91,18,2016-2017,
+17K600,Clara Barton High School,True,511613,Licensed Practical/Vocational Nurse Training,Health Science Cluster,3,Approved,9101112,265,18,2016-2017,
+17K600,Clara Barton High School,True,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,2,Approved,101112,59,18,2016-2017,
+17K751,Academy for Health Careers,True,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,3,Non-Approved,9101112,370,0,2016-2017,
+18K567,Brooklyn Theatre Arts High School,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,232,0,2016-2017,
+18K617,High School for Innovation in Advertising and Medi,True,110899,"Computer Software and Media Applications, Other",Information Technology Cluster,2,Approved,9101112,230,3,2016-2017,
+19K502,FDNY - Captain Vernon A. Richards High School for,False,510904,Emergency Medical Technology/Technician (EMT Paramedic),Health Science Cluster,2,Non-Approved,9101112,129,0,2016-2017,
+19K510,World Academy for Total Community Health High Scho,False,519999,"Health Professions and Related Clinical Services, Other",Health Science Cluster,5,Non-Approved,9101112,115,9,2016-2017,
+19K615,Transit Tech Career and Technical Education High S,True,470101,"Electrical/Electronics Equipment Installation and Repair, General",Information Technology Cluster,8,Approved,9101112,230,19,2016-2017,
+19K615,Transit Tech Career and Technical Education High S,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,2,Approved,9101112,158,19,2016-2017,
+19K615,Transit Tech Career and Technical Education High S,True,470105,Industrial Electronics Technology/Technician,Manufacturing Production Cluster,8,Approved,101112,39,19,2016-2017,
+19K615,Transit Tech Career and Technical Education High S,True,479999,"Mechanic and Repair Technologies/Technicians, Other","Transportation, Distribution and Logistics Cluster",3,Approved,9101112,106,19,2016-2017,
+19K618,Academy of Innovative Technology,True,110103,Information Technology,Information Technology Cluster,2,Non-Approved,9101112,73,4,2016-2017,
+19K618,Academy of Innovative Technology,True,110801,"Web Page, Digital/Multimedia and Information Resources Design",Information Technology Cluster,3,Approved,9101112,190,4,2016-2017,
+19K618,Academy of Innovative Technology,True,470101,"Electrical/Electronics Equipment Installation and Repair, General",Information Technology Cluster,2,Approved,9101112,84,4,2016-2017,
+19K660,W. H. Maxwell Career and Technical Education High,True,100105,Communications Technology/Technician,"Arts, Audio/Video Technology and Communications Cluster",1,Approved,9101112,89,3,2016-2017,
+19K660,W. H. Maxwell Career and Technical Education High,True,120401,"Cosmetology/Cosmetologist, General",Marketing Sales and Services Cluster,1,Approved,9101112,177,3,2016-2017,
+19K660,W. H. Maxwell Career and Technical Education High,True,500407,Fashion/Apparel Design,"Arts, Audio/Video Technology and Communications Cluster",1,Approved,9101112,50,3,2016-2017,
+19K660,W. H. Maxwell Career and Technical Education High,True,510706,Health Information/Medical Records Administration/Administrator,Health Science Cluster,0,Non-Approved,9101112,78,3,2016-2017,
+19K660,W. H. Maxwell Career and Technical Education High,True,511006,Ophthalmic Laboratory Technology/Technician,Health Science Cluster,1,Approved,9101112,34,3,2016-2017,
+19K764,The Urban Assembly School for Collaborative Health,True,519999,"Health Professions and Related Clinical Services, Other",Health Science Cluster,1,Non-Approved,91011,126,8,2016-2017,
+20K445,New Utrecht High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,12,Non-Approved,9101112,186,20,2016-2017,
+20K445,New Utrecht High School,False,510714,Medical Insurance Specialist/Medical Biller,Health Science Cluster,2,Non-Approved,9101112,327,20,2016-2017,
+20K445,New Utrecht High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,5,Non-Approved,9101112,263,20,2016-2017,
+20K445,New Utrecht High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,5,Non-Approved,9101112,145,20,2016-2017,
+20K485,High School of Telecommunication Arts and Technolo,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,0,Non-Approved,9101112,211,0,2016-2017,
+20K490,Fort Hamilton High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,87,12,2016-2017,
+20K490,Fort Hamilton High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Approved,9101112,767,12,2016-2017,
+21K410,Abraham Lincoln High School,False,510808,Veterinary/Animal Health Technology/Technician and Veterinarian Assistant,Health Science Cluster,1,Non-Approved,9101112,284,2,2016-2017,
+21K525,Edward R. Murrow High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Approved,9101112,919,6,2016-2017,
+21K559,Life Academy High School for Film and Music,False,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,219,0,2016-2017,
+21K620,William E. Grady Career and Technical Education Hi,True,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,2,Approved,9101112,91,12,2016-2017,
+21K620,William E. Grady Career and Technical Education Hi,True,151001,Construction Engineering Technology/Technician,Architecture and Construction Cluster,3,Non-Approved,9101112,97,12,2016-2017,
+21K620,William E. Grady Career and Technical Education Hi,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,2,Non-Approved,9101112,131,12,2016-2017,
+21K620,William E. Grady Career and Technical Education Hi,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,9101112,59,12,2016-2017,
+21K620,William E. Grady Career and Technical Education Hi,True,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,1,Non-Approved,9101112,58,12,2016-2017,
+21K690,Brooklyn Studio Secondary School,False,500102,Digital Arts,"Arts, Audio/Video Technology and Communications Cluster",1,Approved,9101112,219,4,2016-2017,
+22K405,Midwood High School,False,90199,"Communications and Media Studies, Other","Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,9101112,397,9,2016-2017,
+22K405,Midwood High School,False,151302,CAD/CADD Drafting and/or Design Technology/Technician,Manufacturing Production Cluster,2,Approved,9101112,439,9,2016-2017,
+22K405,Midwood High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,429,9,2016-2017,
+22K425,James Madison High School,False,110103,Information Technology,Information Technology Cluster,1,Non-Approved,9101112,460,7,2016-2017,
+22K425,James Madison High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,661,7,2016-2017,
+22K425,James Madison High School,False,520899,"Finance and Financial Management Services, Other",Finance Cluster,1,Non-Approved,101112,83,7,2016-2017,
+24Q264,Academy of Finance and Enterprise,False,520304,Accounting and Finance,Business Management and Administration Cluster,3,Approved,9101112,247,10,2016-2017,
+24Q264,Academy of Finance and Enterprise,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Approved,9101112,267,10,2016-2017,
+24Q455,Newtown High School,False,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,1,Approved,9101112,465,3,2016-2017,
+24Q455,Newtown High School,False,520101,"Business/Commerce, General",Business Management and Administration Cluster,2,Approved,9101112,477,3,2016-2017,
+24Q485,Grover Cleveland High School,False,110101,"Computer and Information Sciences, General",Information Technology Cluster,3,Non-Approved,9101112,212,4,2016-2017,
+24Q485,Grover Cleveland High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,3,Non-Approved,9101112,208,4,2016-2017,
+24Q550,High School for Arts and Business,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Approved,9101112,196,4,2016-2017,
+24Q600,Queens Vocational and Technical High School,True,110803,Computer Graphics,Information Technology Cluster,2,Approved,9101112,101,30,2016-2017,
+24Q600,Queens Vocational and Technical High School,True,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,3,Non-Approved,9101112,274,30,2016-2017,
+24Q600,Queens Vocational and Technical High School,True,120401,"Cosmetology/Cosmetologist, General",Marketing Sales and Services Cluster,2,Approved,9101112,249,30,2016-2017,
+24Q600,Queens Vocational and Technical High School,True,150303,"Electrical, Electronic and Communications Engineering Technology/Technician",Scientific Research and Engineering Cluster,2,Approved,9101112,160,30,2016-2017,
+24Q600,Queens Vocational and Technical High School,True,460302,Electrician,Architecture and Construction Cluster,5,Approved,9101112,249,30,2016-2017,
+24Q600,Queens Vocational and Technical High School,True,460503,Plumbing Technology/Plumber,Architecture and Construction Cluster,1,Approved,9101112,96,30,2016-2017,
+24Q600,Queens Vocational and Technical High School,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,3,Approved,9101112,118,30,2016-2017,
+24Q600,Queens Vocational and Technical High School,True,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,4,Approved,9101112,219,30,2016-2017,
+24Q610,Aviation Career & Technical Education High School,True,470608,Aircraft Powerplant Technology/Technician,"Transportation, Distribution and Logistics Cluster",2,Approved,9101112,2080,2,2016-2017,
+25Q425,John Bowne High School,False,10599,"Agricultural & Domestic Animals Services, Other","Agriculture, Food and Natural Resources Cluster",0,Non-Approved,9101112,645,0,2016-2017,
+25Q460,Flushing High School,False,430107,Criminal Justice/Police Science,Law and Public Safety Cluster,0,Non-Approved,9101112,207,7,2016-2017,
+25Q460,Flushing High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,13,Non-Approved,9101112,314,7,2016-2017,
+25Q460,Flushing High School,False,520101,"Business/Commerce, General",Business Management and Administration Cluster,0,Approved,9101112,259,7,2016-2017,
+25Q460,Flushing High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,5,Approved,9101112,128,7,2016-2017,
+25Q525,Townsend Harris High School,False,90402,Broadcast Journalism,"Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,337,6,2016-2017,
+25Q525,Townsend Harris High School,False,150401,Biomedical Technology/Technician,Scientific Research and Engineering Cluster,1,Non-Approved,101112,119,6,2016-2017,
+25Q525,Townsend Harris High School,False,150405,Robotics Technology/Technician,Manufacturing Production Cluster,2,Non-Approved,9101112,63,6,2016-2017,
+25Q525,Townsend Harris High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,12,Non-Approved,101112,38,6,2016-2017,
+26Q315,Business Technology Early College High School,True,110103,Information Technology,Information Technology Cluster,1,Non-Approved,91011,306,0,2016-2017,
+26Q430,Francis Lewis High School,False,150405,Robotics Technology/Technician,Manufacturing Production Cluster,1,Non-Approved,9101112,244,3,2016-2017,
+26Q430,Francis Lewis High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,174,3,2016-2017,
+26Q430,Francis Lewis High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,1,Non-Approved,101112,161,3,2016-2017,
+26Q495,Bayside High School,False,90702,Digital Communication and Media/Multimedia,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,9101112,518,13,2016-2017,
+26Q495,Bayside High School,False,100203,Recording Arts Technology/Technician,"Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,9101112,527,13,2016-2017,
+26Q495,Bayside High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,3,Approved,9101112,571,13,2016-2017,
+26Q495,Bayside High School,False,150507,Environmental Engineering Technology/Environmental Technology,"Agriculture, Food and Natural Resources Cluster",4,Approved,9101112,427,13,2016-2017,
+26Q495,Bayside High School,False,449999,"Public Administration and Social Service Professions, Other",Government and Public Administration Cluster,0,Non-Approved,9101112,315,13,2016-2017,
+26Q495,Bayside High School,False,399031,Fitness Trainers & Aerobics Instructors,Education and Training Cluster,7,Approved,9101112,619,13,2016-2017,
+27Q302,"Queens High School for Information, Research, and",False,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,0,Non-Approved,9101112,343,3,2016-2017,
+27Q400,August Martin High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,1,Non-Approved,9101112,117,5,2016-2017,
+27Q475,Richmond Hill High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,11,Non-Approved,9101112,104,5,2016-2017,
+27Q480,John Adams High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,10,Non-Approved,9101112,62,3,2016-2017,
+27Q650,"High School for Construction Trades, Engineering a",True,151001,Construction Engineering Technology/Technician,Architecture and Construction Cluster,5,Approved,9101112,335,6,2016-2017,
+27Q650,"High School for Construction Trades, Engineering a",True,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,5,Approved,9101112,335,6,2016-2017,
+27Q650,"High School for Construction Trades, Engineering a",True,151304,Civil Drafting and Civil Engineering CAD/CADD,Manufacturing Production Cluster,5,Approved,9101112,337,6,2016-2017,
+28Q440,Forest Hills High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,540,2,2016-2017,
+28Q440,Forest Hills High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Approved,9101112,528,2,2016-2017,
+28Q505,Hillcrest High School,False,151302,CAD/CADD Drafting and/or Design Technology/Technician,Manufacturing Production Cluster,4,Non-Approved,9101112,133,8,2016-2017,
+28Q505,Hillcrest High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,17,Non-Approved,9101112,370,8,2016-2017,
+28Q505,Hillcrest High School,False,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,3,Approved,9101112,179,8,2016-2017,
+28Q505,Hillcrest High School,False,520101,"Business/Commerce, General",Business Management and Administration Cluster,3,Approved,9101112,85,8,2016-2017,
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,100305,"Graphic and Printing Equipment Operator, General Production",Manufacturing Production Cluster,2,Approved,9101112,77,23,2016-2017,
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,2,Approved,9101112,283,23,2016-2017,
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,111004,Web/Multimedia Management and Webmaster,Information Technology Cluster,1,Approved,9101112,173,23,2016-2017,
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,150405,Robotics Technology/Technician,Manufacturing Production Cluster,2,Approved,9101112,107,23,2016-2017,
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,151306,Mechanical Drafting and Mechanical Drafting CAD/CADD,Manufacturing Production Cluster,2,Approved,9101112,211,23,2016-2017,
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,460302,Electrician,Architecture and Construction Cluster,2,Non-Approved,9101112,102,23,2016-2017,
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,2,Approved,9101112,344,23,2016-2017,
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,470603,Autobody/Collision and Repair Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,9101112,106,23,2016-2017,
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",4,Approved,9101112,327,23,2016-2017,
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,500402,Commercial and Advertising Art,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,9101112,133,23,2016-2017,
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,511099,"Clinical/Medical Laboratory Science and Allied Professions, Other",Health Science Cluster,4,Approved,9101112,138,23,2016-2017,
+29Q243,Institute for Health Professions at Cambria Height,True,510810,Emergency Care Attendant (EMT Ambulance),Health Science Cluster,1,Non-Approved,12,29,5,2016-2017,
+29Q243,Institute for Health Professions at Cambria Height,True,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,1,Non-Approved,9101112,356,5,2016-2017,
+29Q272,George Washington Carver High School for the Scien,False,510808,Veterinary/Animal Health Technology/Technician and Veterinarian Assistant,Health Science Cluster,7,Non-Approved,9101112,177,3,2016-2017,
+29Q313,Benjamin Franklin High School for Finance & Inform,True,110103,Information Technology,Information Technology Cluster,2,Non-Approved,91011,237,1,2016-2017,
+29Q313,Benjamin Franklin High School for Finance & Inform,True,520304,Accounting and Finance,Business Management and Administration Cluster,4,Non-Approved,91011,71,1,2016-2017,
+29Q326,Cambria Heights Academy,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,1,Non-Approved,9101112,269,0,2016-2017,
+30Q258,Energy Tech High School,True,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,2,Non-Approved,9101112,425,4,2016-2017,
+30Q301,Academy for Careers in Television and Film,True,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",4,Approved,9101112,540,0,2016-2017,
+30Q445,William Cullen Bryant High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,8,Non-Approved,9101112,310,7,2016-2017,
+30Q445,William Cullen Bryant High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Non-Approved,9101112,284,7,2016-2017,
+30Q450,Long Island City High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,6,Approved,9101112,437,16,2016-2017,
+30Q450,Long Island City High School,False,520901,"Hospitality Administration/Management, General",Hospitality and Tourism Cluster,5,Approved,9101112,139,16,2016-2017,
+30Q501,Frank Sinatra School of the Arts High School,False,500301,"Dance, General","Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,9101112,113,0,2016-2017,
+30Q501,Frank Sinatra School of the Arts High School,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,9101112,127,0,2016-2017,
+30Q502,Information Technology High School,False,110801,"Web Page, Digital/Multimedia and Information Resources Design",Information Technology Cluster,3,Approved,101112,102,10,2016-2017,
+30Q502,Information Technology High School,False,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,101112,97,10,2016-2017,
+31R440,New Dorp High School,False,90702,Digital Communication and Media/Multimedia,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,9101112,391,15,2016-2017,
+31R440,New Dorp High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,1,Non-Approved,9101112,94,15,2016-2017,
+31R440,New Dorp High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,15,Non-Approved,9101112,352,15,2016-2017,
+31R440,New Dorp High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,7,Approved,9101112,269,15,2016-2017,
+31R445,Port Richmond High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,3,Non-Approved,9101112,350,7,2016-2017,
+31R445,Port Richmond High School,False,150401,Biomedical Technology/Technician,Scientific Research and Engineering Cluster,1,Non-Approved,101112,82,7,2016-2017,
+31R445,Port Richmond High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,1,Non-Approved,9101112,174,7,2016-2017,
+31R445,Port Richmond High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,4,Non-Approved,9101112,24,7,2016-2017,
+31R450,Curtis High School,False,90102,Mass Communications/Media Studies,"Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,9101112,251,10,2016-2017,
+31R450,Curtis High School,False,110301,Data Processing Technology/Technician,Information Technology Cluster,5,Non-Approved,9101112,344,10,2016-2017,
+31R450,Curtis High School,False,430107,Criminal Justice/Police Science,Law and Public Safety Cluster,35,Non-Approved,9101112,347,10,2016-2017,
+31R450,Curtis High School,False,500301,"Dance, General","Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,9101112,139,10,2016-2017,
+31R450,Curtis High School,False,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,224,10,2016-2017,
+31R450,Curtis High School,False,511613,Licensed Practical/Vocational Nurse Training,Health Science Cluster,2,Approved,9101112,120,10,2016-2017,
+31R450,Curtis High School,False,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,2,Approved,101112,187,10,2016-2017,
+31R455,Tottenville High School,False,90903,Advertising,"Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,9101112,87,13,2016-2017,
+31R455,Tottenville High School,False,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,2,Non-Approved,101112,94,13,2016-2017,
+31R455,Tottenville High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,3,Non-Approved,9101112,164,13,2016-2017,
+31R455,Tottenville High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,10,Non-Approved,101112,160,13,2016-2017,
+31R455,Tottenville High School,False,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",2,Approved,9101112,167,13,2016-2017,
+31R455,Tottenville High School,False,510603,Dental Laboratory Technology/Technician,Health Science Cluster,3,Approved,101112,82,13,2016-2017,
+31R455,Tottenville High School,False,510699,"Dental Services and Allied Professions, Other",Health Science Cluster,1,Approved,101112,92,13,2016-2017,
+31R455,Tottenville High School,False,510899,"Health/Medical Assisting Services, Other",Health Science Cluster,2,Non-Approved,1112,153,13,2016-2017,
+31R455,Tottenville High School,False,520304,Accounting and Finance,Business Management and Administration Cluster,4,Non-Approved,101112,138,13,2016-2017,
+31R460,Susan E. Wagner High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,357,2,2016-2017,
+31R460,Susan E. Wagner High School,False,520304,Accounting and Finance,Business Management and Administration Cluster,3,Non-Approved,9101112,140,2,2016-2017,
+31R460,Susan E. Wagner High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,1,Non-Approved,9101112,143,2,2016-2017,
+31R600,Ralph R. McKee Career and Technical Education High,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,9101112,74,14,2016-2017,
+31R600,Ralph R. McKee Career and Technical Education High,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,1,Non-Approved,9101112,56,14,2016-2017,
+31R600,Ralph R. McKee Career and Technical Education High,True,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,3,Non-Approved,9101112,46,14,2016-2017,
+31R600,Ralph R. McKee Career and Technical Education High,True,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,1,Approved,9101112,41,14,2016-2017,
+31R600,Ralph R. McKee Career and Technical Education High,True,460201,Carpentry/Carpenter,Architecture and Construction Cluster,5,Approved,101112,56,14,2016-2017,
+31R600,Ralph R. McKee Career and Technical Education High,True,460302,Electrician,Architecture and Construction Cluster,5,Non-Approved,91011,48,14,2016-2017,
+31R600,Ralph R. McKee Career and Technical Education High,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,9101112,84,14,2016-2017,
+31R605,Staten Island Technical High School,False,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,3,Approved,9101112,1309,2,2016-2017,
+01M448,University Neighborhood High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,0,Non-Approved,9101112,381,,2017-2018,4
+02M135,The Urban Assembly School for Emergency Management,True,439999,"Security and Protective Services, Other",Law and Public Safety Cluster,2,Non-Approved,9101112,277,,2017-2018,3
+02M139,Stephen T. Mather Building Arts & Craftsmanship Hi,True,469999,"Construction Trades, Other",Architecture and Construction Cluster,2,Approved,9101112,385,,2017-2018,3
+02M280,Manhattan Early College School for Advertising,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,0,Non-Approved,,0,,2017-2018,1
+02M280,Manhattan Early College School for Advertising,True,110899,"Computer Software and Media Applications, Other",Information Technology Cluster,2,Non-Approved,9101112,367,,2017-2018,1
+02M282,Urban Assembly Maker Academy,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,1,Non-Approved,9101112,83,,2017-2018,2
+02M282,Urban Assembly Maker Academy,True,110899,"Computer Software and Media Applications, Other",Information Technology Cluster,2,Non-Approved,9101112,278,,2017-2018,2
+02M288,Food and Finance High School,True,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,5,Approved,9101112,380,,2017-2018,7
+02M392,MANHATTAN BUSINESS ACADEMY,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,5,Approved,9101112,226,,2017-2018,3
+02M393,Business Of Sports School,True,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,6,Non-Approved,9101112,415,,2017-2018,2
+02M420,High School for Health Professions and Human Servi,False,510802,Clinical/Medical Laboratory Assistant,Health Science Cluster,4,Non-Approved,101112,290,,2017-2018,4
+02M489,High School of Economics and Finance,False,520304,Accounting and Finance,Business Management and Administration Cluster,5,Non-Approved,9101112,663,,2017-2018,3
+02M489,High School of Economics and Finance,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Non-Approved,9101112,60,,2017-2018,3
+02M507,Urban Assembly Gateway School for Technology,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,2,Non-Approved,9101112,183,,2017-2018,7
+02M507,Urban Assembly Gateway School for Technology,True,110899,"Computer Software and Media Applications, Other",Information Technology Cluster,4,Approved,101112,129,,2017-2018,7
+02M507,Urban Assembly Gateway School for Technology,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,3,Approved,101112,123,,2017-2018,7
+02M519,Talent Unlimited High School,False,500301,"Dance, General","Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,12,18,,2017-2018,2
+02M519,Talent Unlimited High School,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,9101112,125,,2017-2018,2
+02M529,Jacqueline Kennedy Onassis High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,7,Non-Approved,9101112,225,,2017-2018,3
+02M529,Jacqueline Kennedy Onassis High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,3,Non-Approved,9101112,262,,2017-2018,3
+02M533,Union Square Academy for Health Sciences,True,510603,Dental Laboratory Technology/Technician,Health Science Cluster,3,Approved,9101112,195,,2017-2018,3
+02M533,Union Square Academy for Health Sciences,True,510805,Pharmacy Technician/Assistant,Health Science Cluster,4,Approved,9101112,200,,2017-2018,3
+02M542,Manhattan Bridges High School,False,110101,"Computer and Information Sciences, General",Information Technology Cluster,2,Non-Approved,9101112,268,,2017-2018,3
+02M542,Manhattan Bridges High School,False,151304,Civil Drafting and Civil Engineering CAD/CADD,Manufacturing Production Cluster,2,Non-Approved,9101112,175,,2017-2018,3
+02M546,Academy for Software Engineering,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,3,Non-Approved,9101112,376,,2017-2018,8
+02M551,Urban Assembly New York Harbor School,True,10303,Aquaculture,"Agriculture, Food and Natural Resources Cluster",2,Approved,9101112,75,,2017-2018,6
+02M551,Urban Assembly New York Harbor School,True,30205,"Water, Wetlands and Marine Resources Management","Agriculture, Food and Natural Resources Cluster",3,Approved,9101112,102,,2017-2018,6
+02M551,Urban Assembly New York Harbor School,True,150405,Robotics Technology/Technician,Manufacturing Production Cluster,2,Approved,9101112,83,,2017-2018,6
+02M551,Urban Assembly New York Harbor School,True,470616,Marine Maintenance/Fitter and Ship Repair Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,9101112,105,,2017-2018,6
+02M551,Urban Assembly New York Harbor School,True,490309,Marine Science/Merchant Marine Officer,"Transportation, Distribution and Logistics Cluster",2,Approved,9101112,72,,2017-2018,6
+02M551,Urban Assembly New York Harbor School,True,490399,"Marine Transportation, Other","Transportation, Distribution and Logistics Cluster",0,Non-Approved,9101112,75,,2017-2018,6
+02M600,The High School of Fashion Industries,True,190905,Apparel and Textile Marketing Management,Marketing Sales and Services Cluster,2,Approved,9101112,296,,2017-2018,8
+02M600,The High School of Fashion Industries,True,500407,Fashion/Apparel Design,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,9101112,842,,2017-2018,8
+02M600,The High School of Fashion Industries,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,9101112,387,,2017-2018,8
+02M600,The High School of Fashion Industries,True,521902,Fashion Merchandising,Marketing Sales and Services Cluster,2,Approved,9101112,43,,2017-2018,8
+02M615,Chelsea Career and Technical Education High School,True,100303,Prepress/Desktop Publishing and Digital Imaging Design,Manufacturing Production Cluster,3,Approved,9101112,237,,2017-2018,7
+02M615,Chelsea Career and Technical Education High School,True,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,2,Approved,9101112,79,,2017-2018,7
+02M615,Chelsea Career and Technical Education High School,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,3,Non-Approved,9101112,114,,2017-2018,7
+02M630,Art and Design High School,True,100303,Prepress/Desktop Publishing and Digital Imaging Design,Manufacturing Production Cluster,3,Approved,9101112,143,,2017-2018,15
+02M630,Art and Design High School,True,100304,"Animation, Interactive Technology, Video Graphics and Special Effects",Manufacturing Production Cluster,2,Approved,9101112,128,,2017-2018,15
+02M630,Art and Design High School,True,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,3,Approved,9101112,115,,2017-2018,15
+02M630,Art and Design High School,True,500402,Commercial and Advertising Art,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,9101112,163,,2017-2018,15
+02M630,Art and Design High School,True,500406,Commercial Photography,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,9101112,69,,2017-2018,15
+02M630,Art and Design High School,True,500407,Fashion/Apparel Design,"Arts, Audio/Video Technology and Communications Cluster",4,Non-Approved,9101112,110,,2017-2018,15
+02M630,Art and Design High School,True,500410,Illustration,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,9101112,587,,2017-2018,15
+02M630,Art and Design High School,True,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,9101112,109,,2017-2018,15
+03M299,The Maxine Greene HS for Imaginative Inquiry,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Non-Approved,101112,79,,2017-2018,1
+03M402,The Urban Assembly School for Green Careers,True,10601,"Applied Horticulture/Horticultural Operations, General","Agriculture, Food and Natural Resources Cluster",2,Non-Approved,9101112,105,,2017-2018,2
+03M402,The Urban Assembly School for Green Careers,True,460401,Building/Property Maintenance and Manager,Architecture and Construction Cluster,1,Approved,9101112,132,,2017-2018,2
+03M485,Fiorello H. LaGuardia High School of Music & Art a,False,500301,"Dance, General","Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,235,,2017-2018,2
+03M485,Fiorello H. LaGuardia High School of Music & Art a,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,249,,2017-2018,2
+03M485,Fiorello H. LaGuardia High School of Music & Art a,False,500502,Technical Theater/Theater Design and Technology,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,9101112,117,,2017-2018,2
+05M157,The Urban Assembly School for Global Commerce,True,520203,Logistics and Materials Management,"Transportation, Distribution and Logistics Cluster",2,Non-Approved,9101112,212,,2017-2018,0
+05M362,Columbia Secondary School,False,150101,Architectural Engineering Technology/Technician,Architecture and Construction Cluster,2,Non-Approved,9101112,402,,2017-2018,1
+06M211,Inwood Early College for Health and Information Te,True,110103,Information Technology,Information Technology Cluster,3,Non-Approved,9101112,329,,2017-2018,8
+06M211,Inwood Early College for Health and Information Te,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,0,Non-Approved,,0,,2017-2018,8
+06M467,High School for Law and Public Service,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,3,Non-Approved,9101112,243,,2017-2018,1
+07X259,"H.E.R.O. High (Health, Education, and Research Occ",True,511613,Licensed Practical/Vocational Nurse Training,Health Science Cluster,2,Non-Approved,9101112,452,,2017-2018,1
+07X522,Bronx Design and Construction Academy,True,150501,"Heating, Air Conditioning and Refrigeration Technology/Technician",Scientific Research and Engineering Cluster,3,Approved,9101112,46,,2017-2018,16
+07X522,Bronx Design and Construction Academy,True,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,2,Approved,9101112,79,,2017-2018,16
+07X522,Bronx Design and Construction Academy,True,460201,Carpentry/Carpenter,Architecture and Construction Cluster,3,Approved,9101112,87,,2017-2018,16
+07X522,Bronx Design and Construction Academy,True,460302,Electrician,Architecture and Construction Cluster,2,Approved,9101112,92,,2017-2018,16
+07X522,Bronx Design and Construction Academy,True,460503,Plumbing Technology/Plumber,Architecture and Construction Cluster,1,Non-Approved,9101112,107,,2017-2018,16
+07X600,Alfred E. Smith Career and Technical Education Hig,True,470603,Autobody/Collision and Repair Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,9101112,66,,2017-2018,5
+07X600,Alfred E. Smith Career and Technical Education Hig,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,9101112,281,,2017-2018,5
+07X600,Alfred E. Smith Career and Technical Education Hig,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",5,Approved,9101112,84,,2017-2018,5
+08X405,Herbert H. Lehman High School,False,110103,Information Technology,Information Technology Cluster,1,Non-Approved,9101112,222,,2017-2018,5
+08X530,Longwood Preparatory Academy,False,90702,Digital Communication and Media/Multimedia,"Arts, Audio/Video Technology and Communications Cluster",0,Non-Approved,9101112,149,,2017-2018,5
+08X559,School for Tourism and Hospitality,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,0,Non-Approved,9101112,256,,2017-2018,1
+09X324,Bronx Early College Academy for Teaching & Learnin,False,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,0,Non-Approved,9101112,198,,2017-2018,2
+09X365,Academy for Language and Technology,False,110101,"Computer and Information Sciences, General",Information Technology Cluster,0,Approved,9101112,225,,2017-2018,3
+09X365,Academy for Language and Technology,False,110899,"Computer Software and Media Applications, Other",Information Technology Cluster,1,Approved,9101112,101,,2017-2018,3
+09X403,Bronx International High School,False,151001,Construction Engineering Technology/Technician,Architecture and Construction Cluster,3,Non-Approved,9101112,403,,2017-2018,3
+09X412,Bronx High School of Business,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Non-Approved,9101112,125,,2017-2018,1
+10X213,Bronx Engineering and Technology Academy,False,151399,"Drafting/Design Engineering Technologies/Technicians, Other",Manufacturing Production Cluster,1,Approved,9101112,356,,2017-2018,5
+10X264,Bronx Academy for Software Engineering (BASE),True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,3,Non-Approved,9101112,433,,2017-2018,6
+10X284,Bronx School of Law and Finance,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,74,,2017-2018,6
+10X284,Bronx School of Law and Finance,False,520304,Accounting and Finance,Business Management and Administration Cluster,2,Non-Approved,9101112,186,,2017-2018,6
+10X368,In-Tech Academy (M.S. / High School 368),False,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,1,Approved,9101112,138,,2017-2018,6
+10X368,In-Tech Academy (M.S. / High School 368),False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Approved,9101112,188,,2017-2018,6
+10X437,Fordham High School for the Arts,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,174,,2017-2018,3
+10X437,Fordham High School for the Arts,False,500502,Technical Theater/Theater Design and Technology,"Arts, Audio/Video Technology and Communications Cluster",0,Non-Approved,,0,,2017-2018,3
+10X439,Bronx High School for Law and Community Service,False,430107,Criminal Justice/Police Science,Law and Public Safety Cluster,8,Non-Approved,9101112,138,,2017-2018,2
+10X524,Crotona International High School,True,100203,Recording Arts Technology/Technician,"Arts, Audio/Video Technology and Communications Cluster",8,Approved,9101112,301,,2017-2018,3
+10X565,High School for Energy and Technology,True,460302,Electrician,Architecture and Construction Cluster,0,Non-Approved,9101112,325,,2017-2018,6
+11X270,Academy for Scholarship and Entrepreneurship: A Co,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,5,Approved,9101112,376,,2017-2018,2
+11X275,High School of Computers and Technology,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,2,Approved,9101112,573,,2017-2018,7
+11X418,Bronx High School for the Visual Arts,False,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",1,Approved,9101112,396,,2017-2018,4
+11X508,Bronxdale High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,4,Non-Approved,9101112,182,,2017-2018,6
+13K419,"Science Skills Center High School for Science, Tec",False,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,1,Non-Approved,9101112,147,,2017-2018,1
+13K430,Brooklyn Technical High School,False,90102,Mass Communications/Media Studies,"Arts, Audio/Video Technology and Communications Cluster",5,Approved,1112,151,,2017-2018,8
+13K430,Brooklyn Technical High School,False,150405,Robotics Technology/Technician,Manufacturing Production Cluster,2,Approved,101112,410,,2017-2018,8
+13K430,Brooklyn Technical High School,False,151301,"Drafting and Design Technology/Technician, General",Manufacturing Production Cluster,1,Approved,9101112,3232,,2017-2018,8
+13K430,Brooklyn Technical High School,False,430103,Criminal Justice/Law Enforcement Administration,Law and Public Safety Cluster,11,Non-Approved,1112,270,,2017-2018,8
+13K605,George Westinghouse Career and Technical Education,True,111004,Web/Multimedia Management and Webmaster,Information Technology Cluster,1,Non-Approved,1012,52,,2017-2018,10
+13K605,George Westinghouse Career and Technical Education,True,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,3,Approved,9101112,380,,2017-2018,10
+13K605,George Westinghouse Career and Technical Education,True,151202,Computer Technology/Computer Systems Technology,Information Technology Cluster,3,Non-Approved,9101112,99,,2017-2018,10
+13K605,George Westinghouse Career and Technical Education,True,460302,Electrician,Architecture and Construction Cluster,3,Approved,9101112,123,,2017-2018,10
+13K674,"City Polytechnic High School of Engineering, Archi",True,150101,Architectural Engineering Technology/Technician,Architecture and Construction Cluster,3,Approved,9101112,403,,2017-2018,3
+14K477,East Williamsburg Scholars Academy,False,430107,Criminal Justice/Police Science,Law and Public Safety Cluster,9,Non-Approved,9101112,196,,2017-2018,8
+14K478,"The High School for Enterprise, Business and Techn",False,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,2,Approved,9101112,353,,2017-2018,11
+14K478,"The High School for Enterprise, Business and Techn",False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,6,Approved,9101112,477,,2017-2018,11
+14K558,Williamsburg High School for Architecture and Desi,True,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,3,Approved,9101112,568,,2017-2018,6
+14K610,Automotive High School,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",5,Approved,9101112,215,,2017-2018,7
+14K610,Automotive High School,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",0,Non-Approved,,0,,2017-2018,7
+15K497,The Boerum Hill School for International Studies,False,120599,"Culinary Arts and Related Services, Other",Hospitality and Tourism Cluster,5,Approved,9101112,151,,2017-2018,2
+15K519,Cobble Hill School of American Studies,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,379,,2017-2018,4
+16K455,Boys and Girls High School,False,460302,Electrician,Architecture and Construction Cluster,1,Non-Approved,9101112,139,,2017-2018,1
+16K688,The Brooklyn Academy of Global Finance,False,520304,Accounting and Finance,Business Management and Administration Cluster,0,Non-Approved,9101112,129,,2017-2018,7
+17K122,Pathways in Technology Early College High School (,True,150403,Electromechanical Technology/Electromechanical Engineering Technology,Manufacturing Production Cluster,1,Non-Approved,9101112,108,,2017-2018,1
+17K122,Pathways in Technology Early College High School (,True,151202,Computer Technology/Computer Systems Technology,Information Technology Cluster,2,Non-Approved,9101112,460,,2017-2018,1
+17K408,Academy of Hospitality and Tourism,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,1,Non-Approved,9101112,195,,2017-2018,5
+17K548,Brooklyn School for Music & Theatre,False,500502,Technical Theater/Theater Design and Technology,"Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,9101112,181,,2017-2018,0
+17K600,Clara Barton High School,True,510601,Dental Assisting/Assistant,Health Science Cluster,3,Approved,9101112,126,,2017-2018,27
+17K600,Clara Barton High School,True,510603,Dental Laboratory Technology/Technician,Health Science Cluster,3,Approved,9101112,90,,2017-2018,27
+17K600,Clara Barton High School,True,511006,Ophthalmic Laboratory Technology/Technician,Health Science Cluster,2,Non-Approved,9101112,25,,2017-2018,27
+17K600,Clara Barton High School,True,511613,Licensed Practical/Vocational Nurse Training,Health Science Cluster,3,Approved,9101112,135,,2017-2018,27
+17K600,Clara Barton High School,True,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,2,Approved,9101112,192,,2017-2018,27
+17K751,Academy for Health Careers,True,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,3,Non-Approved,9101112,349,,2017-2018,4
+18K567,Brooklyn Theatre Arts High School,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,306,,2017-2018,1
+18K617,High School for Innovation in Advertising and Medi,True,110899,"Computer Software and Media Applications, Other",Information Technology Cluster,2,Non-Approved,9101112,182,,2017-2018,4
+19K502,FDNY - Captain Vernon A. Richard High School for F,False,510904,Emergency Medical Technology/Technician (EMT Paramedic),Health Science Cluster,2,Non-Approved,101112,78,,2017-2018,1
+19K510,World Academy for Total Community Health High Scho,False,519999,"Health Professions and Related Clinical Services, Other",Health Science Cluster,5,Non-Approved,9101112,70,,2017-2018,5
+19K615,Transit Tech Career and Technical Education High S,True,470101,"Electrical/Electronics Equipment Installation and Repair, General",Information Technology Cluster,8,Non-Approved,9101112,94,,2017-2018,6
+19K615,Transit Tech Career and Technical Education High S,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,2,Approved,9101112,239,,2017-2018,6
+19K615,Transit Tech Career and Technical Education High S,True,470105,Industrial Electronics Technology/Technician,Manufacturing Production Cluster,8,Non-Approved,9101112,41,,2017-2018,6
+19K615,Transit Tech Career and Technical Education High S,True,479999,"Mechanic and Repair Technologies/Technicians, Other","Transportation, Distribution and Logistics Cluster",3,Non-Approved,9101112,159,,2017-2018,6
+19K618,Academy of Innovative Technology,True,110103,Information Technology,Information Technology Cluster,2,Non-Approved,9101112,92,,2017-2018,7
+19K618,Academy of Innovative Technology,True,110801,"Web Page, Digital/Multimedia and Information Resources Design",Information Technology Cluster,3,Approved,9101112,74,,2017-2018,7
+19K618,Academy of Innovative Technology,True,470101,"Electrical/Electronics Equipment Installation and Repair, General",Information Technology Cluster,2,Approved,9101112,158,,2017-2018,7
+19K660,W. H. Maxwell Career and Technical Education High,True,100105,Communications Technology/Technician,"Arts, Audio/Video Technology and Communications Cluster",1,Approved,9101112,89,,2017-2018,9
+19K660,W. H. Maxwell Career and Technical Education High,True,120401,"Cosmetology/Cosmetologist, General",Marketing Sales and Services Cluster,1,Approved,9101112,150,,2017-2018,9
+19K660,W. H. Maxwell Career and Technical Education High,True,500407,Fashion/Apparel Design,"Arts, Audio/Video Technology and Communications Cluster",1,Approved,9101112,36,,2017-2018,9
+19K660,W. H. Maxwell Career and Technical Education High,True,510714,Medical Insurance Specialist/Medical Biller,Health Science Cluster,0,Non-Approved,9101112,66,,2017-2018,9
+19K660,W. H. Maxwell Career and Technical Education High,True,511006,Ophthalmic Laboratory Technology/Technician,Health Science Cluster,1,Approved,9101112,39,,2017-2018,9
+19K764,The Urban Assembly School for Collaborative Health,True,519999,"Health Professions and Related Clinical Services, Other",Health Science Cluster,1,Non-Approved,9101112,170,,2017-2018,5
+20K445,New Utrecht High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,12,Non-Approved,9101112,147,,2017-2018,20
+20K445,New Utrecht High School,False,510714,Medical Insurance Specialist/Medical Biller,Health Science Cluster,2,Non-Approved,9101112,281,,2017-2018,20
+20K445,New Utrecht High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,5,Non-Approved,9101112,197,,2017-2018,20
+20K445,New Utrecht High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,5,Non-Approved,9101112,122,,2017-2018,20
+20K485,High School of Telecommunication Arts and Technolo,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,0,Non-Approved,9101112,213,,2017-2018,0
+20K490,Fort Hamilton High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,59,,2017-2018,9
+20K490,Fort Hamilton High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Approved,9101112,661,,2017-2018,9
+21K410,Abraham Lincoln High School,False,510808,Veterinary/Animal Health Technology/Technician and Veterinarian Assistant,Health Science Cluster,1,Non-Approved,9101112,343,,2017-2018,5
+21K410,Abraham Lincoln High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Non-Approved,9101112,101,,2017-2018,5
+21K525,Edward R. Murrow High School,False,100203,Recording Arts Technology/Technician,"Arts, Audio/Video Technology and Communications Cluster",0,Non-Approved,9101112,322,,2017-2018,10
+21K525,Edward R. Murrow High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Approved,9101112,713,,2017-2018,10
+21K540,John Dewey High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,0,Non-Approved,9101112,189,,2017-2018,5
+21K559,Life Academy High School for Film and Music,False,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,103,,2017-2018,1
+21K620,William E. Grady Career and Technical Education Hi,True,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,2,Approved,9101112,69,,2017-2018,3
+21K620,William E. Grady Career and Technical Education Hi,True,151001,Construction Engineering Technology/Technician,Architecture and Construction Cluster,3,Non-Approved,9101112,94,,2017-2018,3
+21K620,William E. Grady Career and Technical Education Hi,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,2,Approved,9101112,148,,2017-2018,3
+21K620,William E. Grady Career and Technical Education Hi,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Non-Approved,91012,28,,2017-2018,3
+21K620,William E. Grady Career and Technical Education Hi,True,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,1,Non-Approved,9101112,44,,2017-2018,3
+21K690,Brooklyn Studio Secondary School,False,110899,"Computer Software and Media Applications, Other",Information Technology Cluster,1,Approved,9101112,266,,2017-2018,5
+22K405,Midwood High School,False,90199,"Communications and Media Studies, Other","Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,9101112,392,,2017-2018,5
+22K405,Midwood High School,False,151302,CAD/CADD Drafting and/or Design Technology/Technician,Manufacturing Production Cluster,2,Approved,9101112,266,,2017-2018,5
+22K405,Midwood High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,630,,2017-2018,5
+22K425,James Madison High School,False,110103,Information Technology,Information Technology Cluster,1,Non-Approved,9101112,450,,2017-2018,8
+22K425,James Madison High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,618,,2017-2018,8
+22K425,James Madison High School,False,520899,"Finance and Financial Management Services, Other",Finance Cluster,1,Non-Approved,9101112,108,,2017-2018,8
+24Q264,Academy of Finance and Enterprise,False,520304,Accounting and Finance,Business Management and Administration Cluster,3,Approved,9101112,247,,2017-2018,7
+24Q264,Academy of Finance and Enterprise,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Approved,9101112,270,,2017-2018,7
+24Q455,Newtown High School,False,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,1,Approved,9101112,396,,2017-2018,5
+24Q455,Newtown High School,False,520101,"Business/Commerce, General",Business Management and Administration Cluster,2,Approved,9101112,309,,2017-2018,5
+24Q485,Grover Cleveland High School,False,110101,"Computer and Information Sciences, General",Information Technology Cluster,3,Non-Approved,9101112,272,,2017-2018,5
+24Q485,Grover Cleveland High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,3,Non-Approved,9101112,199,,2017-2018,5
+24Q550,High School for Arts and Business,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Approved,9101112,228,,2017-2018,5
+24Q600,Queens Vocational and Technical High School,True,110803,Computer Graphics,Information Technology Cluster,2,Approved,9101112,106,,2017-2018,10
+24Q600,Queens Vocational and Technical High School,True,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,3,Approved,101112,52,,2017-2018,10
+24Q600,Queens Vocational and Technical High School,True,120401,"Cosmetology/Cosmetologist, General",Marketing Sales and Services Cluster,2,Approved,9101112,229,,2017-2018,10
+24Q600,Queens Vocational and Technical High School,True,120402,Barbering/Barber,Marketing Sales and Services Cluster,0,Non-Approved,910,26,,2017-2018,10
+24Q600,Queens Vocational and Technical High School,True,150303,"Electrical, Electronic and Communications Engineering Technology/Technician",Scientific Research and Engineering Cluster,2,Approved,91112,164,,2017-2018,10
+24Q600,Queens Vocational and Technical High School,True,460302,Electrician,Architecture and Construction Cluster,5,Approved,9101112,429,,2017-2018,10
+24Q600,Queens Vocational and Technical High School,True,460503,Plumbing Technology/Plumber,Architecture and Construction Cluster,1,Approved,9101112,94,,2017-2018,10
+24Q600,Queens Vocational and Technical High School,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,3,Approved,9101112,231,,2017-2018,10
+24Q600,Queens Vocational and Technical High School,True,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,4,Approved,9101112,188,,2017-2018,10
+24Q610,Aviation Career & Technical Education High School,True,470608,Aircraft Powerplant Technology/Technician,"Transportation, Distribution and Logistics Cluster",2,Approved,9101112,2060,,2017-2018,5
+25Q425,John Bowne High School,False,10599,"Agricultural & Domestic Animals Services, Other","Agriculture, Food and Natural Resources Cluster",0,Approved,9101112,604,,2017-2018,8
+25Q425,John Bowne High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,0,Non-Approved,9101112,429,,2017-2018,8
+25Q460,Flushing High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,13,Non-Approved,9101112,346,,2017-2018,2
+25Q460,Flushing High School,False,520101,"Business/Commerce, General",Business Management and Administration Cluster,0,Approved,9101112,134,,2017-2018,2
+25Q460,Flushing High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,5,Approved,9101112,243,,2017-2018,2
+25Q525,Townsend Harris High School,False,90402,Broadcast Journalism,"Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,101112,174,,2017-2018,5
+25Q525,Townsend Harris High School,False,150401,Biomedical Technology/Technician,Scientific Research and Engineering Cluster,1,Non-Approved,101112,147,,2017-2018,5
+25Q525,Townsend Harris High School,False,150405,Robotics Technology/Technician,Manufacturing Production Cluster,2,Non-Approved,101112,168,,2017-2018,5
+25Q525,Townsend Harris High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,12,Non-Approved,1112,6,,2017-2018,5
+26Q315,Business Technology Early College High School,True,110103,Information Technology,Information Technology Cluster,1,Non-Approved,9101112,424,,2017-2018,1
+26Q430,Francis Lewis High School,False,150405,Robotics Technology/Technician,Manufacturing Production Cluster,1,Non-Approved,9101112,240,,2017-2018,6
+26Q430,Francis Lewis High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,101112,95,,2017-2018,6
+26Q430,Francis Lewis High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,1,Non-Approved,1112,128,,2017-2018,6
+26Q495,Bayside High School,False,90702,Digital Communication and Media/Multimedia,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,9101112,503,,2017-2018,21
+26Q495,Bayside High School,False,100203,Recording Arts Technology/Technician,"Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,9101112,537,,2017-2018,21
+26Q495,Bayside High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,3,Approved,9101112,596,,2017-2018,21
+26Q495,Bayside High School,False,150507,Environmental Engineering Technology/Environmental Technology,"Agriculture, Food and Natural Resources Cluster",4,Approved,9101112,381,,2017-2018,21
+26Q495,Bayside High School,False,399031,Fitness Trainers & Aerobics Instructors,Education and Training Cluster,0,Approved,9101112,689,,2017-2018,21
+26Q495,Bayside High School,False,449999,"Public Administration and Social Service Professions, Other",Government and Public Administration Cluster,0,Non-Approved,9101112,249,,2017-2018,21
+27Q302,"Queens High School for Information, Research, and",False,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,0,Non-Approved,9101112,72,,2017-2018,2
+27Q400,August Martin High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,1,Non-Approved,9101112,180,,2017-2018,4
+27Q475,Richmond Hill High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,0,Non-Approved,910,93,,2017-2018,12
+27Q480,John Adams High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,10,Non-Approved,9101112,102,,2017-2018,2
+27Q650,"High School for Construction Trades, Engineering a",True,151001,Construction Engineering Technology/Technician,Architecture and Construction Cluster,5,Approved,9101112,329,,2017-2018,7
+27Q650,"High School for Construction Trades, Engineering a",True,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,5,Approved,9101112,351,,2017-2018,7
+27Q650,"High School for Construction Trades, Engineering a",True,151304,Civil Drafting and Civil Engineering CAD/CADD,Manufacturing Production Cluster,5,Approved,9101112,355,,2017-2018,7
+28Q440,Forest Hills High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,372,,2017-2018,7
+28Q440,Forest Hills High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Approved,9101112,405,,2017-2018,7
+28Q505,Hillcrest High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,0,Non-Approved,101112,62,,2017-2018,16
+28Q505,Hillcrest High School,False,151302,CAD/CADD Drafting and/or Design Technology/Technician,Manufacturing Production Cluster,4,Non-Approved,101112,74,,2017-2018,16
+28Q505,Hillcrest High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,17,Non-Approved,9101112,204,,2017-2018,16
+28Q505,Hillcrest High School,False,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,3,Approved,101112,103,,2017-2018,16
+28Q505,Hillcrest High School,False,520101,"Business/Commerce, General",Business Management and Administration Cluster,3,Approved,9101112,60,,2017-2018,16
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,100305,"Graphic and Printing Equipment Operator, General Production",Manufacturing Production Cluster,2,Approved,9101112,103,,2017-2018,36
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,2,Approved,9101112,238,,2017-2018,36
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,111003,Computer and Information Systems Security,Information Technology Cluster,0,Non-Approved,9101112,166,,2017-2018,36
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,111004,Web/Multimedia Management and Webmaster,Information Technology Cluster,1,Approved,9101112,195,,2017-2018,36
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,150405,Robotics Technology/Technician,Manufacturing Production Cluster,2,Approved,9101112,140,,2017-2018,36
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,151306,Mechanical Drafting and Mechanical Drafting CAD/CADD,Manufacturing Production Cluster,2,Approved,9101112,212,,2017-2018,36
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,460302,Electrician,Architecture and Construction Cluster,2,Non-Approved,9101112,117,,2017-2018,36
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,2,Approved,9101112,200,,2017-2018,36
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,470603,Autobody/Collision and Repair Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,9101112,97,,2017-2018,36
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",4,Approved,9101112,327,,2017-2018,36
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,500402,Commercial and Advertising Art,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,9101112,141,,2017-2018,36
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,511099,"Clinical/Medical Laboratory Science and Allied Professions, Other",Health Science Cluster,4,Approved,9101112,133,,2017-2018,36
+29Q243,Institute for Health Professions at Cambria Height,True,510810,Emergency Care Attendant (EMT Ambulance),Health Science Cluster,1,Non-Approved,9101112,140,,2017-2018,3
+29Q243,Institute for Health Professions at Cambria Height,True,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,1,Non-Approved,9101112,276,,2017-2018,3
+29Q272,George Washington Carver High School for the Scien,False,510808,Veterinary/Animal Health Technology/Technician and Veterinarian Assistant,Health Science Cluster,7,Non-Approved,9101112,165,,2017-2018,5
+29Q313,Benjamin Franklin High School for Finance & Inform,True,110103,Information Technology,Information Technology Cluster,2,Non-Approved,9101112,358,,2017-2018,2
+29Q313,Benjamin Franklin High School for Finance & Inform,True,520304,Accounting and Finance,Business Management and Administration Cluster,4,Non-Approved,9101112,40,,2017-2018,2
+29Q326,Cambria Heights Academy,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,1,Non-Approved,9101112,286,,2017-2018,4
+30Q258,Energy Tech High School,True,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,2,Non-Approved,91112,276,,2017-2018,2
+30Q286,"Young Women's Leadership School, Astoria",False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,0,Non-Approved,,0,,2017-2018,6
+30Q301,Academy for Careers in Television and Film,True,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",4,Approved,9101112,559,,2017-2018,4
+30Q445,William Cullen Bryant High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,8,Non-Approved,9101112,311,,2017-2018,14
+30Q445,William Cullen Bryant High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Non-Approved,9101112,251,,2017-2018,14
+30Q450,Long Island City High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,6,Approved,9101112,431,,2017-2018,16
+30Q450,Long Island City High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,5,Approved,9101112,148,,2017-2018,16
+30Q501,Frank Sinatra School of the Arts High School,False,500301,"Dance, General","Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,9101112,113,,2017-2018,0
+30Q501,Frank Sinatra School of the Arts High School,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,9101112,141,,2017-2018,0
+30Q502,Information Technology High School,False,110801,"Web Page, Digital/Multimedia and Information Resources Design",Information Technology Cluster,3,Approved,101112,97,,2017-2018,13
+30Q502,Information Technology High School,False,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,101112,87,,2017-2018,13
+31R440,New Dorp High School,False,90702,Digital Communication and Media/Multimedia,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,9101112,382,,2017-2018,10
+31R440,New Dorp High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,1,Non-Approved,91011,109,,2017-2018,10
+31R440,New Dorp High School,False,430106,Forensic Science and Technology,Law and Public Safety Cluster,0,Non-Approved,9101112,415,,2017-2018,10
+31R440,New Dorp High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,15,Non-Approved,9101112,306,,2017-2018,10
+31R440,New Dorp High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,7,Approved,9101112,252,,2017-2018,10
+31R445,Port Richmond High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,3,Non-Approved,9101112,375,,2017-2018,4
+31R445,Port Richmond High School,False,150401,Biomedical Technology/Technician,Scientific Research and Engineering Cluster,1,Non-Approved,101112,40,,2017-2018,4
+31R445,Port Richmond High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,1,Non-Approved,101112,88,,2017-2018,4
+31R450,Curtis High School,False,90102,Mass Communications/Media Studies,"Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,9101112,280,,2017-2018,5
+31R450,Curtis High School,False,110301,Data Processing Technology/Technician,Information Technology Cluster,5,Non-Approved,9101112,422,,2017-2018,5
+31R450,Curtis High School,False,430107,Criminal Justice/Police Science,Law and Public Safety Cluster,35,Non-Approved,9101112,372,,2017-2018,5
+31R450,Curtis High School,False,500301,"Dance, General","Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,9101112,131,,2017-2018,5
+31R450,Curtis High School,False,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,216,,2017-2018,5
+31R450,Curtis High School,False,511613,Licensed Practical/Vocational Nurse Training,Health Science Cluster,2,Approved,9101112,57,,2017-2018,5
+31R450,Curtis High School,False,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,2,Approved,9101112,292,,2017-2018,5
+31R455,Tottenville High School,False,90903,Advertising,"Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,9101112,87,,2017-2018,18
+31R455,Tottenville High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,0,Non-Approved,91011,58,,2017-2018,18
+31R455,Tottenville High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,3,Non-Approved,9101112,128,,2017-2018,18
+31R455,Tottenville High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,10,Non-Approved,9101112,189,,2017-2018,18
+31R455,Tottenville High School,False,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",2,Approved,9101112,113,,2017-2018,18
+31R455,Tottenville High School,False,510603,Dental Laboratory Technology/Technician,Health Science Cluster,3,Approved,9101112,74,,2017-2018,18
+31R455,Tottenville High School,False,510699,"Dental Services and Allied Professions, Other",Health Science Cluster,1,Approved,9101112,87,,2017-2018,18
+31R455,Tottenville High School,False,510899,"Health/Medical Assisting Services, Other",Health Science Cluster,2,Non-Approved,1112,131,,2017-2018,18
+31R455,Tottenville High School,False,520304,Accounting and Finance,Business Management and Administration Cluster,4,Non-Approved,9101112,170,,2017-2018,18
+31R460,Susan E. Wagner High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,349,,2017-2018,2
+31R460,Susan E. Wagner High School,False,520304,Accounting and Finance,Business Management and Administration Cluster,3,Non-Approved,9101112,131,,2017-2018,2
+31R460,Susan E. Wagner High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,1,Non-Approved,9101112,108,,2017-2018,2
+31R600,Ralph R. McKee Career and Technical Education High,True,90702,Digital Communication and Media/Multimedia,"Arts, Audio/Video Technology and Communications Cluster",0,Non-Approved,9101112,57,,2017-2018,13
+31R600,Ralph R. McKee Career and Technical Education High,True,100305,"Graphic and Printing Equipment Operator, General Production",Manufacturing Production Cluster,2,Approved,9101112,93,,2017-2018,13
+31R600,Ralph R. McKee Career and Technical Education High,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,1,Non-Approved,9101112,102,,2017-2018,13
+31R600,Ralph R. McKee Career and Technical Education High,True,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,1,Approved,9101112,51,,2017-2018,13
+31R600,Ralph R. McKee Career and Technical Education High,True,460201,Carpentry/Carpenter,Architecture and Construction Cluster,5,Approved,9101112,64,,2017-2018,13
+31R600,Ralph R. McKee Career and Technical Education High,True,460302,Electrician,Architecture and Construction Cluster,5,Non-Approved,9101112,71,,2017-2018,13
+31R600,Ralph R. McKee Career and Technical Education High,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,9101112,78,,2017-2018,13
+31R605,Staten Island Technical High School,False,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,3,Approved,9101112,1188,,2017-2018,1
+33K891,Brooklyn STEAM Center,False,110101,"Computer and Information Sciences, General",Information Technology Cluster,0,Non-Approved,11,40,,2017-2018,5
+33K891,Brooklyn STEAM Center,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,0,Non-Approved,11,34,,2017-2018,5
+33K891,Brooklyn STEAM Center,False,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,0,Non-Approved,1112,55,,2017-2018,5
+01M448,University Neighborhood High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,1,Non-Approved,9101112,452,,2018-2019,3
+02M135,The Urban Assembly School for Emergency Management,True,439999,"Security and Protective Services, Other",Law and Public Safety Cluster,14,Non-Approved,11,1,,2018-2019,1
+02M135,The Urban Assembly School for Emergency Management,True,510904,Emergency Medical Technology/Technician (EMT Paramedic),Health Science Cluster,2,Non-Approved,9101112,269,,2018-2019,1
+02M139,Stephen T. Mather Building Arts & Craftsmanship Hi,True,469999,"Construction Trades, Other",Architecture and Construction Cluster,2,Approved,9101112,393,,2018-2019,6
+02M280,Manhattan Early College School for Advertising,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,3,Non-Approved,,0,,2018-2019,3
+02M280,Manhattan Early College School for Advertising,True,110899,"Computer Software and Media Applications, Other",Information Technology Cluster,3,Non-Approved,9101112,398,,2018-2019,3
+02M282,Urban Assembly Maker Academy,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,3,Approved,9101112,120,,2018-2019,3
+02M282,Urban Assembly Maker Academy,True,500102,Digital Arts,"Arts, Audio/Video Technology and Communications Cluster",0,Approved,,0,,2018-2019,3
+02M288,Food and Finance High School,True,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,4,Approved,9101112,371,,2018-2019,5
+02M300,"Urban Assembly School of Design and Construction,",False,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,3,Non-Approved,9101112,152,,2018-2019,5
+02M392,MANHATTAN BUSINESS ACADEMY,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,6,Approved,101112,304,,2018-2019,6
+02M393,Business Of Sports School,True,520201,"Business Administration and Management, General",Business Management and Administration Cluster,7,Non-Approved,91012,73,,2018-2019,7
+02M393,Business Of Sports School,True,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,7,Approved,9101112,313,,2018-2019,7
+02M420,High School for Health Professions and Human Servi,False,510802,Clinical/Medical Laboratory Assistant,Health Science Cluster,6,Non-Approved,101112,295,,2018-2019,8
+02M489,High School of Economics and Finance,False,520304,Accounting and Finance,Business Management and Administration Cluster,5,Non-Approved,9101112,622,,2018-2019,4
+02M489,High School of Economics and Finance,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Non-Approved,9101112,87,,2018-2019,4
+02M507,Urban Assembly Gateway School for Technology,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,4,Non-Approved,9101112,111,,2018-2019,8
+02M507,Urban Assembly Gateway School for Technology,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,4,Approved,101112,128,,2018-2019,8
+02M507,Urban Assembly Gateway School for Technology,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",4,Approved,101112,84,,2018-2019,8
+02M519,Talent Unlimited High School,False,500301,"Dance, General","Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,96,,2018-2019,2
+02M519,Talent Unlimited High School,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,9101112,156,,2018-2019,2
+02M529,Jacqueline Kennedy Onassis High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Non-Approved,9101112,210,,2018-2019,7
+02M529,Jacqueline Kennedy Onassis High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,3,Non-Approved,9101112,185,,2018-2019,7
+02M533,Union Square Academy for Health Sciences,True,510603,Dental Laboratory Technology/Technician,Health Science Cluster,8,Approved,9101112,171,,2018-2019,4
+02M533,Union Square Academy for Health Sciences,True,510805,Pharmacy Technician/Assistant,Health Science Cluster,7,Approved,9101112,242,,2018-2019,4
+02M542,Manhattan Bridges High School,False,151304,Civil Drafting and Civil Engineering CAD/CADD,Manufacturing Production Cluster,2,Non-Approved,9101112,187,,2018-2019,3
+02M542,Manhattan Bridges High School,False,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,247,,2018-2019,3
+02M546,Academy for Software Engineering,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,2,Non-Approved,9101112,460,,2018-2019,5
+02M551,Urban Assembly New York Harbor School,True,10303,Aquaculture,"Agriculture, Food and Natural Resources Cluster",3,Approved,9101112,94,,2018-2019,13
+02M551,Urban Assembly New York Harbor School,True,30205,"Water, Wetlands and Marine Resources Management","Agriculture, Food and Natural Resources Cluster",3,Approved,9101112,89,,2018-2019,13
+02M551,Urban Assembly New York Harbor School,True,470616,Marine Maintenance/Fitter and Ship Repair Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,9101112,99,,2018-2019,13
+02M551,Urban Assembly New York Harbor School,True,480599,"Precision Metal Working, Other",Manufacturing Production Cluster,6,Approved,9101112,92,,2018-2019,13
+02M551,Urban Assembly New York Harbor School,True,490309,Marine Science/Merchant Marine Officer,"Transportation, Distribution and Logistics Cluster",4,Approved,9101112,77,,2018-2019,13
+02M551,Urban Assembly New York Harbor School,True,490399,"Marine Transportation, Other","Transportation, Distribution and Logistics Cluster",3,Non-Approved,9101112,74,,2018-2019,13
+02M600,The High School of Fashion Industries,True,190905,Apparel and Textile Marketing Management,Marketing Sales and Services Cluster,5,Approved,9101112,263,,2018-2019,6
+02M600,The High School of Fashion Industries,True,500407,Fashion/Apparel Design,"Arts, Audio/Video Technology and Communications Cluster",4,Approved,9101112,777,,2018-2019,6
+02M600,The High School of Fashion Industries,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,9101112,466,,2018-2019,6
+02M600,The High School of Fashion Industries,True,521902,Fashion Merchandising,Marketing Sales and Services Cluster,5,Approved,9101112,65,,2018-2019,6
+02M615,Chelsea Career and Technical Education High School,True,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,6,Approved,9101112,82,,2018-2019,8
+02M615,Chelsea Career and Technical Education High School,True,151202,Computer Technology/Computer Systems Technology,Information Technology Cluster,6,Approved,9101112,67,,2018-2019,8
+02M615,Chelsea Career and Technical Education High School,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",5,Approved,9101112,301,,2018-2019,8
+02M630,Art and Design High School,True,100303,Prepress/Desktop Publishing and Digital Imaging Design,Manufacturing Production Cluster,3,Approved,9101112,129,,2018-2019,17
+02M630,Art and Design High School,True,100304,"Animation, Interactive Technology, Video Graphics and Special Effects",Manufacturing Production Cluster,3,Approved,9101112,147,,2018-2019,17
+02M630,Art and Design High School,True,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,3,Approved,9101112,103,,2018-2019,17
+02M630,Art and Design High School,True,500402,Commercial and Advertising Art,"Arts, Audio/Video Technology and Communications Cluster",5,Approved,9101112,164,,2018-2019,17
+02M630,Art and Design High School,True,500406,Commercial Photography,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,9101112,66,,2018-2019,17
+02M630,Art and Design High School,True,500407,Fashion/Apparel Design,"Arts, Audio/Video Technology and Communications Cluster",9,Approved,9101112,94,,2018-2019,17
+02M630,Art and Design High School,True,500410,Illustration,"Arts, Audio/Video Technology and Communications Cluster",4,Approved,9101112,635,,2018-2019,17
+02M630,Art and Design High School,True,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",4,Approved,9101112,125,,2018-2019,17
+03M299,The Maxine Greene HS for Imaginative Inquiry,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Non-Approved,9101112,77,,2018-2019,1
+03M402,The Urban Assembly School for Green Careers,True,10601,"Applied Horticulture/Horticultural Operations, General","Agriculture, Food and Natural Resources Cluster",5,Non-Approved,9101112,81,,2018-2019,8
+03M402,The Urban Assembly School for Green Careers,True,460401,Building/Property Maintenance and Manager,Architecture and Construction Cluster,7,Approved,9101112,189,,2018-2019,8
+03M485,Fiorello H. LaGuardia High School of Music & Art a,False,500301,"Dance, General","Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,9101112,258,,2018-2019,5
+03M485,Fiorello H. LaGuardia High School of Music & Art a,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",4,Non-Approved,9101112,317,,2018-2019,5
+03M485,Fiorello H. LaGuardia High School of Music & Art a,False,500502,Technical Theater/Theater Design and Technology,"Arts, Audio/Video Technology and Communications Cluster",5,Approved,9101112,130,,2018-2019,5
+04M435,Manhattan Center for Science and Mathematics,False,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,0,Non-Approved,9101112,40,,2018-2019,1
+05M157,The Urban Assembly School for Global Commerce,True,520203,Logistics and Materials Management,"Transportation, Distribution and Logistics Cluster",5,Non-Approved,9101112,243,,2018-2019,2
+05M362,Columbia Secondary School,False,150101,Architectural Engineering Technology/Technician,Architecture and Construction Cluster,2,Non-Approved,9101112,418,,2018-2019,2
+05M692,"High School for Mathematics, Science and Engineeri",False,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,3,Non-Approved,91011,299,,2018-2019,1
+06M211,Inwood Early College for Health and Information Te,True,110103,Information Technology,Information Technology Cluster,2,Approved,9101112,377,,2018-2019,14
+06M211,Inwood Early College for Health and Information Te,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,2,Non-Approved,,0,,2018-2019,14
+06M467,High School for Law and Public Service,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,274,,2018-2019,5
+06M468,High School for Health Careers and Sciences,False,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,2,Non-Approved,9101112,102,,2018-2019,8
+07X259,"H.E.R.O. High (Health, Education, and Research Occ",True,511613,Licensed Practical/Vocational Nurse Training,Health Science Cluster,2,Non-Approved,9101112,459,,2018-2019,1
+07X522,Bronx Design and Construction Academy,True,150501,"Heating, Air Conditioning and Refrigeration Technology/Technician",Scientific Research and Engineering Cluster,3,Approved,9101112,113,,2018-2019,14
+07X522,Bronx Design and Construction Academy,True,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,2,Approved,9101112,61,,2018-2019,14
+07X522,Bronx Design and Construction Academy,True,460201,Carpentry/Carpenter,Architecture and Construction Cluster,3,Approved,9101112,111,,2018-2019,14
+07X522,Bronx Design and Construction Academy,True,460302,Electrician,Architecture and Construction Cluster,3,Approved,9101112,77,,2018-2019,14
+07X522,Bronx Design and Construction Academy,True,460503,Plumbing Technology/Plumber,Architecture and Construction Cluster,4,Approved,101112,39,,2018-2019,14
+07X600,Alfred E. Smith Career and Technical Education Hig,True,470603,Autobody/Collision and Repair Technology/Technician,"Transportation, Distribution and Logistics Cluster",4,Approved,9101112,87,,2018-2019,13
+07X600,Alfred E. Smith Career and Technical Education Hig,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",4,Approved,9101112,257,,2018-2019,13
+07X600,Alfred E. Smith Career and Technical Education Hig,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,9101112,88,,2018-2019,13
+08X530,Longwood Preparatory Academy,False,90702,Digital Communication and Media/Multimedia,"Arts, Audio/Video Technology and Communications Cluster",7,Non-Approved,9101112,147,,2018-2019,10
+08X530,Longwood Preparatory Academy,False,220302,Legal Assistant/Paralegal,Law and Public Safety Cluster,2,Non-Approved,9101112,118,,2018-2019,10
+08X559,School for Tourism and Hospitality,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,1,Non-Approved,9101112,201,,2018-2019,3
+09X324,Bronx Early College Academy for Teaching & Learnin,False,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,3,Non-Approved,9101112,186,,2018-2019,3
+09X365,Academy for Language and Technology,False,110199,"Computer Science, Other",Information Technology Cluster,8,Approved,9101112,74,,2018-2019,8
+09X365,Academy for Language and Technology,False,110899,"Computer Software and Media Applications, Other",Information Technology Cluster,1,Approved,9101112,259,,2018-2019,8
+09X403,Bronx International High School,False,110801,"Web Page, Digital/Multimedia and Information Resources Design",Information Technology Cluster,6,Non-Approved,101112,93,,2018-2019,4
+09X403,Bronx International High School,False,151001,Construction Engineering Technology/Technician,Architecture and Construction Cluster,5,Approved,9101112,201,,2018-2019,4
+09X412,Bronx High School of Business,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,5,Non-Approved,9101112,119,,2018-2019,1
+10X213,Bronx Engineering and Technology Academy,False,151399,"Drafting/Design Engineering Technologies/Technicians, Other",Manufacturing Production Cluster,4,Approved,9101112,368,,2018-2019,6
+10X237,"The Marie Curie School for Medicine, Nursing, and",False,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,2,Non-Approved,910,98,,2018-2019,7
+10X264,Bronx Academy for Software Engineering (BASE),True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,4,Non-Approved,9101112,399,,2018-2019,4
+10X284,Bronx School of Law and Finance,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,200,,2018-2019,1
+10X284,Bronx School of Law and Finance,False,520304,Accounting and Finance,Business Management and Administration Cluster,2,Non-Approved,9101112,181,,2018-2019,1
+10X368,In-Tech Academy (M.S. / High School 368),False,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,3,Approved,9101112,145,,2018-2019,11
+10X368,In-Tech Academy (M.S. / High School 368),False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Approved,9101112,180,,2018-2019,11
+10X437,Fordham High School for the Arts,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",7,Non-Approved,9101112,108,,2018-2019,5
+10X437,Fordham High School for the Arts,False,500502,Technical Theater/Theater Design and Technology,"Arts, Audio/Video Technology and Communications Cluster",4,Non-Approved,9101112,53,,2018-2019,5
+10X439,Bronx High School for Law and Community Service,False,430107,Criminal Justice/Police Science,Law and Public Safety Cluster,8,Non-Approved,9101112,154,,2018-2019,2
+10X524,Crotona International High School,True,100203,Recording Arts Technology/Technician,"Arts, Audio/Video Technology and Communications Cluster",5,Approved,9101112,328,,2018-2019,7
+10X565,High School for Energy and Technology,True,460302,Electrician,Architecture and Construction Cluster,5,Non-Approved,9101112,373,,2018-2019,11
+11X270,Academy for Scholarship and Entrepreneurship: A Co,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,5,Approved,9101112,326,,2018-2019,10
+11X270,Academy for Scholarship and Entrepreneurship: A Co,False,521401,"Marketing/Marketing Management, General",Marketing Sales and Services Cluster,3,Non-Approved,911,34,,2018-2019,10
+11X275,High School of Computers and Technology,True,151202,Computer Technology/Computer Systems Technology,Information Technology Cluster,6,Approved,9101112,563,,2018-2019,12
+11X418,Bronx High School for the Visual Arts,False,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",4,Approved,9101112,447,,2018-2019,5
+11X508,Bronxdale High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,2,Non-Approved,9101112,154,,2018-2019,0
+11X545,Bronx Aerospace High School,False,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,3,Non-Approved,9101112,272,,2018-2019,13
+13K419,"Science Skills Center High School for Science, Tec",False,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,3,Non-Approved,9101112,169,,2018-2019,10
+13K430,Brooklyn Technical High School,False,90102,Mass Communications/Media Studies,"Arts, Audio/Video Technology and Communications Cluster",7,Approved,9101112,600,,2018-2019,12
+13K430,Brooklyn Technical High School,False,150405,Robotics Technology/Technician,Manufacturing Production Cluster,3,Approved,9101112,1695,,2018-2019,12
+13K430,Brooklyn Technical High School,False,151301,"Drafting and Design Technology/Technician, General",Manufacturing Production Cluster,2,Approved,9101112,2341,,2018-2019,12
+13K430,Brooklyn Technical High School,False,430103,Criminal Justice/Law Enforcement Administration,Law and Public Safety Cluster,11,Non-Approved,1112,334,,2018-2019,12
+13K499,ACORN Community High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,1,Non-Approved,9101112,123,,2018-2019,1
+13K605,George Westinghouse Career and Technical Education,True,111004,Web/Multimedia Management and Webmaster,Information Technology Cluster,2,Non-Approved,9101112,176,,2018-2019,18
+13K605,George Westinghouse Career and Technical Education,True,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,2,Approved,9101112,191,,2018-2019,18
+13K605,George Westinghouse Career and Technical Education,True,151202,Computer Technology/Computer Systems Technology,Information Technology Cluster,4,Non-Approved,9101112,178,,2018-2019,18
+13K605,George Westinghouse Career and Technical Education,True,460302,Electrician,Architecture and Construction Cluster,5,Approved,9101112,191,,2018-2019,18
+13K674,"City Polytechnic High School of Engineering, Archi",True,150101,Architectural Engineering Technology/Technician,Architecture and Construction Cluster,3,Approved,9101112,420,,2018-2019,4
+14K454,The Williamsburg High School of Art and Technology,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,2,Non-Approved,9101112,234,,2018-2019,7
+14K477,East Williamsburg Scholars Academy,False,430107,Criminal Justice/Police Science,Law and Public Safety Cluster,9,Non-Approved,9101112,159,,2018-2019,6
+14K478,"The High School for Enterprise, Business and Techn",False,111002,"System, Networking and LAN/WAN Management/Manager",Information Technology Cluster,1,Approved,9101112,315,,2018-2019,15
+14K478,"The High School for Enterprise, Business and Techn",False,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,4,Non-Approved,9101112,162,,2018-2019,15
+14K478,"The High School for Enterprise, Business and Techn",False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,6,Approved,9101112,310,,2018-2019,15
+14K558,Williamsburg High School for Architecture and Desi,True,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,4,Approved,9101112,574,,2018-2019,3
+14K610,Automotive High School,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",5,Approved,9101112,200,,2018-2019,10
+14K610,Automotive High School,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,,0,,2018-2019,10
+15K497,The Boerum Hill School for International Studies,False,120599,"Culinary Arts and Related Services, Other",Hospitality and Tourism Cluster,5,Approved,9101112,218,,2018-2019,3
+15K519,Cobble Hill School of American Studies,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,319,,2018-2019,7
+16K455,Boys and Girls High School,False,460302,Electrician,Architecture and Construction Cluster,4,Non-Approved,9101112,147,,2018-2019,5
+16K688,The Brooklyn Academy of Global Finance,False,520304,Accounting and Finance,Business Management and Administration Cluster,3,Non-Approved,9101112,113,,2018-2019,3
+17K122,Pathways in Technology Early College High School (,True,150403,Electromechanical Technology/Electromechanical Engineering Technology,Manufacturing Production Cluster,1,Non-Approved,101112,103,,2018-2019,14
+17K122,Pathways in Technology Early College High School (,True,151202,Computer Technology/Computer Systems Technology,Information Technology Cluster,2,Non-Approved,9101112,475,,2018-2019,14
+17K408,Academy of Hospitality and Tourism,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,5,Non-Approved,9101112,109,,2018-2019,5
+17K408,Academy of Hospitality and Tourism,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,5,Non-Approved,9101112,79,,2018-2019,5
+17K543,"Science, Technology and Research Early College Hig",False,460302,Electrician,Architecture and Construction Cluster,3,Non-Approved,101112,98,,2018-2019,1
+17K548,Brooklyn School for Music & Theatre,False,500502,Technical Theater/Theater Design and Technology,"Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,243,,2018-2019,0
+17K600,Clara Barton High School,True,510601,Dental Assisting/Assistant,Health Science Cluster,5,Approved,9101112,135,,2018-2019,13
+17K600,Clara Barton High School,True,510603,Dental Laboratory Technology/Technician,Health Science Cluster,3,Approved,9101112,129,,2018-2019,13
+17K600,Clara Barton High School,True,511006,Ophthalmic Laboratory Technology/Technician,Health Science Cluster,2,Approved,101112,46,,2018-2019,13
+17K600,Clara Barton High School,True,511613,Licensed Practical/Vocational Nurse Training,Health Science Cluster,4,Approved,9101112,136,,2018-2019,13
+17K600,Clara Barton High School,True,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,3,Approved,9101112,317,,2018-2019,13
+17K751,Academy for Health Careers,True,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,1,Non-Approved,9101112,302,,2018-2019,3
+18K567,Brooklyn Theatre Arts High School,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,9101112,275,,2018-2019,1
+18K617,High School for Innovation in Advertising and Medi,True,110899,"Computer Software and Media Applications, Other",Information Technology Cluster,4,Non-Approved,9101112,252,,2018-2019,10
+19K502,FDNY - Captain Vernon A. Richard High School for F,False,510904,Emergency Medical Technology/Technician (EMT Paramedic),Health Science Cluster,2,Non-Approved,9101112,107,,2018-2019,3
+19K510,World Academy for Total Community Health High Scho,False,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,5,Approved,9101112,67,,2018-2019,4
+19K583,Multicultural High School,False,490101,"Aeronautics/Aviation/Aerospace Science and Technology, General","Transportation, Distribution and Logistics Cluster",2,Non-Approved,11,3,,2018-2019,2
+19K615,Transit Tech Career and Technical Education High S,True,470101,"Electrical/Electronics Equipment Installation and Repair, General",Information Technology Cluster,9,Approved,9101112,47,,2018-2019,17
+19K615,Transit Tech Career and Technical Education High S,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,2,Approved,9101112,219,,2018-2019,17
+19K615,Transit Tech Career and Technical Education High S,True,470105,Industrial Electronics Technology/Technician,Manufacturing Production Cluster,2,Approved,9101112,32,,2018-2019,17
+19K615,Transit Tech Career and Technical Education High S,True,479999,"Mechanic and Repair Technologies/Technicians, Other","Transportation, Distribution and Logistics Cluster",9,Approved,9101112,193,,2018-2019,17
+19K618,Academy of Innovative Technology,True,110801,"Web Page, Digital/Multimedia and Information Resources Design",Information Technology Cluster,4,Approved,9101112,88,,2018-2019,9
+19K618,Academy of Innovative Technology,True,470101,"Electrical/Electronics Equipment Installation and Repair, General",Information Technology Cluster,3,Approved,9101112,186,,2018-2019,9
+19K618,Academy of Innovative Technology,True,500411,Game and Interactive Media Design,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,9101112,86,,2018-2019,9
+19K660,W. H. Maxwell Career and Technical Education High,True,100105,Communications Technology/Technician,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,9101112,90,,2018-2019,7
+19K660,W. H. Maxwell Career and Technical Education High,True,120401,"Cosmetology/Cosmetologist, General",Marketing Sales and Services Cluster,2,Approved,9101112,151,,2018-2019,7
+19K660,W. H. Maxwell Career and Technical Education High,True,500407,Fashion/Apparel Design,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,9101112,43,,2018-2019,7
+19K660,W. H. Maxwell Career and Technical Education High,True,510714,Medical Insurance Specialist/Medical Biller,Health Science Cluster,2,Non-Approved,9101112,44,,2018-2019,7
+19K660,W. H. Maxwell Career and Technical Education High,True,511006,Ophthalmic Laboratory Technology/Technician,Health Science Cluster,3,Approved,9101112,43,,2018-2019,7
+19K764,The Urban Assembly School for Collaborative Health,True,519999,"Health Professions and Related Clinical Services, Other",Health Science Cluster,5,Non-Approved,9101112,184,,2018-2019,8
+20K445,New Utrecht High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,12,Non-Approved,9101112,162,,2018-2019,13
+20K445,New Utrecht High School,False,510714,Medical Insurance Specialist/Medical Biller,Health Science Cluster,6,Non-Approved,9101112,315,,2018-2019,13
+20K445,New Utrecht High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,5,Non-Approved,9101112,264,,2018-2019,13
+20K445,New Utrecht High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,4,Non-Approved,9101112,139,,2018-2019,13
+20K485,High School of Telecommunication Arts and Technolo,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,2,Non-Approved,9101112,236,,2018-2019,1
+20K490,Fort Hamilton High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,101112,96,,2018-2019,8
+20K490,Fort Hamilton High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Approved,9101112,901,,2018-2019,8
+21K410,Abraham Lincoln High School,False,510808,Veterinary/Animal Health Technology/Technician and Veterinarian Assistant,Health Science Cluster,2,Approved,9101112,336,,2018-2019,6
+21K410,Abraham Lincoln High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Non-Approved,9101112,66,,2018-2019,6
+21K525,Edward R. Murrow High School,False,100203,Recording Arts Technology/Technician,"Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,9101112,575,,2018-2019,8
+21K525,Edward R. Murrow High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,3,Non-Approved,9101112,113,,2018-2019,8
+21K525,Edward R. Murrow High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Approved,9101112,715,,2018-2019,8
+21K540,John Dewey High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,2,Non-Approved,9101112,234,,2018-2019,7
+21K559,Life Academy High School for Film and Music,False,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,9101112,278,,2018-2019,2
+21K620,William E. Grady Career and Technical Education Hi,True,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,4,Approved,9101112,77,,2018-2019,8
+21K620,William E. Grady Career and Technical Education Hi,True,151001,Construction Engineering Technology/Technician,Architecture and Construction Cluster,4,Non-Approved,9101112,83,,2018-2019,8
+21K620,William E. Grady Career and Technical Education Hi,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,3,Approved,9101112,121,,2018-2019,8
+21K620,William E. Grady Career and Technical Education Hi,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",5,Approved,91112,24,,2018-2019,8
+21K620,William E. Grady Career and Technical Education Hi,True,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,4,Approved,101112,26,,2018-2019,8
+21K690,Brooklyn Studio Secondary School,False,500102,Digital Arts,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,9101112,274,,2018-2019,6
+22K405,Midwood High School,False,90199,"Communications and Media Studies, Other","Arts, Audio/Video Technology and Communications Cluster",5,Approved,9101112,347,,2018-2019,7
+22K405,Midwood High School,False,151302,CAD/CADD Drafting and/or Design Technology/Technician,Manufacturing Production Cluster,2,Approved,101112,387,,2018-2019,7
+22K405,Midwood High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,374,,2018-2019,7
+22K425,James Madison High School,False,110103,Information Technology,Information Technology Cluster,4,Non-Approved,9101112,501,,2018-2019,5
+22K425,James Madison High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,625,,2018-2019,5
+22K425,James Madison High School,False,520899,"Finance and Financial Management Services, Other",Finance Cluster,3,Non-Approved,9101112,77,,2018-2019,5
+24Q264,Academy of Finance and Enterprise,False,520304,Accounting and Finance,Business Management and Administration Cluster,3,Approved,9101112,299,,2018-2019,5
+24Q264,Academy of Finance and Enterprise,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Approved,9101112,283,,2018-2019,5
+24Q455,Newtown High School,False,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,2,Approved,9101112,365,,2018-2019,3
+24Q455,Newtown High School,False,520101,"Business/Commerce, General",Business Management and Administration Cluster,4,Approved,9101112,325,,2018-2019,3
+24Q485,Grover Cleveland High School,False,110101,"Computer and Information Sciences, General",Information Technology Cluster,4,Non-Approved,9101112,231,,2018-2019,6
+24Q485,Grover Cleveland High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,4,Non-Approved,9101112,203,,2018-2019,6
+24Q550,High School for Arts and Business,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,4,Non-Approved,9101112,248,,2018-2019,5
+24Q550,High School for Arts and Business,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Approved,9101112,192,,2018-2019,5
+24Q600,Queens Technical High School,True,110803,Computer Graphics,Information Technology Cluster,4,Approved,9101112,109,,2018-2019,18
+24Q600,Queens Technical High School,True,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,3,Approved,9101112,172,,2018-2019,18
+24Q600,Queens Technical High School,True,120401,"Cosmetology/Cosmetologist, General",Marketing Sales and Services Cluster,4,Approved,9101112,212,,2018-2019,18
+24Q600,Queens Technical High School,True,120402,Barbering/Barber,Marketing Sales and Services Cluster,3,Non-Approved,91011,46,,2018-2019,18
+24Q600,Queens Technical High School,True,150303,"Electrical, Electronic and Communications Engineering Technology/Technician",Scientific Research and Engineering Cluster,2,Approved,91112,175,,2018-2019,18
+24Q600,Queens Technical High School,True,460302,Electrician,Architecture and Construction Cluster,4,Approved,9101112,288,,2018-2019,18
+24Q600,Queens Technical High School,True,460503,Plumbing Technology/Plumber,Architecture and Construction Cluster,4,Approved,9101112,95,,2018-2019,18
+24Q600,Queens Technical High School,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,4,Approved,9101112,206,,2018-2019,18
+24Q600,Queens Technical High School,True,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Approved,9101112,184,,2018-2019,18
+24Q610,Aviation Career & Technical Education High School,True,470608,Aircraft Powerplant Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,9101112,2083,,2018-2019,8
+25Q425,John Bowne High School,False,10000,"Agriculture, General","Agriculture, Food and Natural Resources Cluster",0,Approved,9101112,613,,2018-2019,11
+25Q425,John Bowne High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,4,Non-Approved,9101112,628,,2018-2019,11
+25Q460,Flushing High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,13,Non-Approved,9101112,416,,2018-2019,7
+25Q460,Flushing High School,False,520101,"Business/Commerce, General",Business Management and Administration Cluster,5,Approved,9101112,160,,2018-2019,7
+25Q460,Flushing High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Approved,9101112,182,,2018-2019,7
+25Q525,Townsend Harris High School,False,90402,Broadcast Journalism,"Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,321,,2018-2019,5
+25Q525,Townsend Harris High School,False,150401,Biomedical Technology/Technician,Scientific Research and Engineering Cluster,3,Non-Approved,101112,177,,2018-2019,5
+25Q525,Townsend Harris High School,False,150405,Robotics Technology/Technician,Manufacturing Production Cluster,2,Non-Approved,101112,150,,2018-2019,5
+25Q525,Townsend Harris High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,12,Non-Approved,9101112,28,,2018-2019,5
+26Q315,Business Technology Early College High School,True,110103,Information Technology,Information Technology Cluster,1,Non-Approved,9101112,518,,2018-2019,4
+26Q430,Francis Lewis High School,False,150405,Robotics Technology/Technician,Manufacturing Production Cluster,1,Non-Approved,9101112,231,,2018-2019,3
+26Q430,Francis Lewis High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,1112,28,,2018-2019,3
+26Q430,Francis Lewis High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,4,Non-Approved,1112,85,,2018-2019,3
+26Q495,Bayside High School,False,90702,Digital Communication and Media/Multimedia,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,9101112,517,,2018-2019,19
+26Q495,Bayside High School,False,100203,Recording Arts Technology/Technician,"Arts, Audio/Video Technology and Communications Cluster",12,Approved,9101112,486,,2018-2019,19
+26Q495,Bayside High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,4,Approved,9101112,592,,2018-2019,19
+26Q495,Bayside High School,False,150507,Environmental Engineering Technology/Environmental Technology,"Agriculture, Food and Natural Resources Cluster",5,Approved,9101112,322,,2018-2019,19
+26Q495,Bayside High School,False,399031,Fitness Trainers & Aerobics Instructors,Education and Training Cluster,10,Approved,9101112,700,,2018-2019,19
+31R460,Susan E. Wagner High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Non-Approved,9101112,124,,2018-2019,4
+26Q495,Bayside High School,False,449999,"Public Administration and Social Service Professions, Other",Government and Public Administration Cluster,5,Non-Approved,9101112,270,,2018-2019,19
+27Q302,"Queens High School for Information, Research, and",False,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,3,Non-Approved,9101112,112,,2018-2019,3
+27Q324,Rockaway Park High School for Environmental Sustai,False,460201,Carpentry/Carpenter,Architecture and Construction Cluster,3,Non-Approved,9101112,22,,2018-2019,2
+27Q351,Rockaway Collegiate High School,False,110801,"Web Page, Digital/Multimedia and Information Resources Design",Information Technology Cluster,0,Non-Approved,9101112,150,,2018-2019,2
+27Q400,August Martin High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,1,Non-Approved,9101112,131,,2018-2019,3
+27Q475,Richmond Hill High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,6,Non-Approved,9101112,86,,2018-2019,12
+27Q475,Richmond Hill High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,6,Non-Approved,91011,124,,2018-2019,12
+27Q480,John Adams High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,10,Non-Approved,9101112,162,,2018-2019,6
+27Q650,"High School for Construction Trades, Engineering a",True,151001,Construction Engineering Technology/Technician,Architecture and Construction Cluster,7,Approved,9101112,339,,2018-2019,11
+27Q650,"High School for Construction Trades, Engineering a",True,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,7,Approved,9101112,353,,2018-2019,11
+27Q650,"High School for Construction Trades, Engineering a",True,151304,Civil Drafting and Civil Engineering CAD/CADD,Manufacturing Production Cluster,7,Approved,9101112,381,,2018-2019,11
+28Q440,Forest Hills High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,523,,2018-2019,7
+28Q440,Forest Hills High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,4,Approved,9101112,558,,2018-2019,7
+28Q505,Hillcrest High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,4,Non-Approved,101112,85,,2018-2019,17
+28Q505,Hillcrest High School,False,151302,CAD/CADD Drafting and/or Design Technology/Technician,Manufacturing Production Cluster,4,Approved,101112,73,,2018-2019,17
+28Q505,Hillcrest High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,17,Non-Approved,9101112,302,,2018-2019,17
+28Q505,Hillcrest High School,False,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,3,Approved,101112,136,,2018-2019,17
+28Q505,Hillcrest High School,False,520101,"Business/Commerce, General",Business Management and Administration Cluster,3,Approved,9101112,82,,2018-2019,17
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,100305,"Graphic and Printing Equipment Operator, General Production",Manufacturing Production Cluster,4,Approved,9101112,126,,2018-2019,29
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,5,Approved,9101112,220,,2018-2019,29
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,111003,Computer and Information Systems Security,Information Technology Cluster,5,Non-Approved,9101112,192,,2018-2019,29
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,111004,Web/Multimedia Management and Webmaster,Information Technology Cluster,3,Approved,9101112,199,,2018-2019,29
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,150405,Robotics Technology/Technician,Manufacturing Production Cluster,2,Approved,9101112,164,,2018-2019,29
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,151306,Mechanical Drafting and Mechanical Drafting CAD/CADD,Manufacturing Production Cluster,3,Approved,9101112,215,,2018-2019,29
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,460302,Electrician,Architecture and Construction Cluster,3,Non-Approved,9101112,115,,2018-2019,29
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,5,Approved,9101112,222,,2018-2019,29
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,470603,Autobody/Collision and Repair Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,9101112,95,,2018-2019,29
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",9,Approved,9101112,338,,2018-2019,29
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,470605,Diesel Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Non-Approved,,0,,2018-2019,29
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,500402,Commercial and Advertising Art,"Arts, Audio/Video Technology and Communications Cluster",4,Approved,9101112,149,,2018-2019,29
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,511099,"Clinical/Medical Laboratory Science and Allied Professions, Other",Health Science Cluster,3,Approved,9101112,118,,2018-2019,29
+29Q243,Institute for Health Professions at Cambria Height,True,510810,Emergency Care Attendant (EMT Ambulance),Health Science Cluster,2,Non-Approved,1112,37,,2018-2019,4
+29Q243,Institute for Health Professions at Cambria Height,True,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,2,Non-Approved,9101112,387,,2018-2019,4
+29Q272,George Washington Carver High School for the Scien,False,510808,Veterinary/Animal Health Technology/Technician and Veterinarian Assistant,Health Science Cluster,1,Non-Approved,9101112,164,,2018-2019,3
+29Q313,Benjamin Franklin High School for Finance & Inform,True,110103,Information Technology,Information Technology Cluster,4,Approved,9101112,368,,2018-2019,3
+29Q313,Benjamin Franklin High School for Finance & Inform,True,520304,Accounting and Finance,Business Management and Administration Cluster,2,Non-Approved,101112,39,,2018-2019,3
+29Q326,Cambria Heights Academy,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,4,Non-Approved,9101112,348,,2018-2019,1
+30Q258,Energy Tech High School,True,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,2,Non-Approved,9101112,538,,2018-2019,2
+30Q286,"Young Women's Leadership School, Astoria",False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,4,Non-Approved,911,41,,2018-2019,12
+30Q301,Academy for Careers in Television and Film,True,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",5,Approved,9101112,564,,2018-2019,1
+30Q445,William Cullen Bryant High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,336,,2018-2019,12
+30Q445,William Cullen Bryant High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Non-Approved,9101112,264,,2018-2019,12
+30Q450,Long Island City High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,7,Approved,9101112,332,,2018-2019,16
+30Q450,Long Island City High School,False,399031,Fitness Trainers & Aerobics Instructors,Education and Training Cluster,2,Non-Approved,9101112,140,,2018-2019,16
+30Q450,Long Island City High School,False,520901,"Hospitality Administration/Management, General",Hospitality and Tourism Cluster,5,Approved,9101112,234,,2018-2019,16
+30Q501,Frank Sinatra School of the Arts High School,False,500301,"Dance, General","Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,9101112,119,,2018-2019,1
+30Q501,Frank Sinatra School of the Arts High School,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,9101112,139,,2018-2019,1
+30Q502,Information Technology High School,False,110801,"Web Page, Digital/Multimedia and Information Resources Design",Information Technology Cluster,3,Approved,101112,101,,2018-2019,12
+30Q502,Information Technology High School,False,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,101112,93,,2018-2019,12
+31R440,New Dorp High School,False,90702,Digital Communication and Media/Multimedia,"Arts, Audio/Video Technology and Communications Cluster",6,Approved,9101112,386,,2018-2019,18
+31R440,New Dorp High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,4,Non-Approved,91011,90,,2018-2019,18
+31R440,New Dorp High School,False,430106,Forensic Science and Technology,Law and Public Safety Cluster,3,Non-Approved,9101112,397,,2018-2019,18
+31R440,New Dorp High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,15,Non-Approved,9101112,309,,2018-2019,18
+31R440,New Dorp High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,6,Approved,9101112,286,,2018-2019,18
+31R445,Port Richmond High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,4,Non-Approved,9101112,398,,2018-2019,7
+31R445,Port Richmond High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Non-Approved,1112,54,,2018-2019,7
+31R450,Curtis High School,False,90102,Mass Communications/Media Studies,"Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,9101112,272,,2018-2019,7
+31R450,Curtis High School,False,110301,Data Processing Technology/Technician,Information Technology Cluster,3,Non-Approved,9101112,439,,2018-2019,7
+31R450,Curtis High School,False,430107,Criminal Justice/Police Science,Law and Public Safety Cluster,36,Non-Approved,9101112,380,,2018-2019,7
+31R450,Curtis High School,False,500301,"Dance, General","Arts, Audio/Video Technology and Communications Cluster",4,Non-Approved,9101112,122,,2018-2019,7
+31R450,Curtis High School,False,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,9101112,405,,2018-2019,7
+31R450,Curtis High School,False,511613,Licensed Practical/Vocational Nurse Training,Health Science Cluster,2,Approved,101112,59,,2018-2019,7
+31R450,Curtis High School,False,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,2,Approved,9101112,291,,2018-2019,7
+31R455,Tottenville High School,False,90903,Advertising,"Arts, Audio/Video Technology and Communications Cluster",5,Non-Approved,9101112,89,,2018-2019,18
+31R455,Tottenville High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,1,Non-Approved,101112,89,,2018-2019,18
+31R455,Tottenville High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,5,Non-Approved,101112,146,,2018-2019,18
+31R455,Tottenville High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,10,Non-Approved,101112,185,,2018-2019,18
+31R455,Tottenville High School,False,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,9101112,144,,2018-2019,18
+31R455,Tottenville High School,False,510603,Dental Laboratory Technology/Technician,Health Science Cluster,4,Approved,101112,75,,2018-2019,18
+31R455,Tottenville High School,False,510699,"Dental Services and Allied Professions, Other",Health Science Cluster,3,Approved,101112,86,,2018-2019,18
+31R455,Tottenville High School,False,510899,"Health/Medical Assisting Services, Other",Health Science Cluster,5,Approved,1112,130,,2018-2019,18
+31R455,Tottenville High School,False,520304,Accounting and Finance,Business Management and Administration Cluster,4,Non-Approved,101112,199,,2018-2019,18
+31R460,Susan E. Wagner High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,9101112,341,,2018-2019,4
+31R600,Ralph R. McKee Career and Technical Education High,True,90702,Digital Communication and Media/Multimedia,"Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,9101112,73,,2018-2019,14
+31R600,Ralph R. McKee Career and Technical Education High,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,3,Non-Approved,9101112,175,,2018-2019,14
+31R600,Ralph R. McKee Career and Technical Education High,True,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,2,Approved,9101112,64,,2018-2019,14
+31R600,Ralph R. McKee Career and Technical Education High,True,460201,Carpentry/Carpenter,Architecture and Construction Cluster,3,Approved,9101112,100,,2018-2019,14
+31R600,Ralph R. McKee Career and Technical Education High,True,460302,Electrician,Architecture and Construction Cluster,2,Non-Approved,9101112,90,,2018-2019,14
+31R600,Ralph R. McKee Career and Technical Education High,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,9101112,109,,2018-2019,14
+31R600,Ralph R. McKee Career and Technical Education High,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,9101112,158,,2018-2019,14
+31R605,Staten Island Technical High School,False,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,2,Approved,9101112,1325,,2018-2019,4
+33K891,Brooklyn STEAM Center,False,110103,Information Technology,Information Technology Cluster,4,Approved,1112,40,,2018-2019,11
+33K891,Brooklyn STEAM Center,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,2,Approved,1112,43,,2018-2019,11
+33K891,Brooklyn STEAM Center,False,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,3,Approved,1112,47,,2018-2019,11
+33K891,Brooklyn STEAM Center,False,469999,"Construction Trades, Other",Architecture and Construction Cluster,3,Non-Approved,1112,26,,2018-2019,11
+33K891,Brooklyn STEAM Center,False,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",4,Non-Approved,91112,35,,2018-2019,11
+01M448,University Neighborhood High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,1,Approved,"9,10,11,12",45,,2019-2020,3
+02M135,The Urban Assembly School for Emergency Management,True,439999,"Security and Protective Services, Other",Law and Public Safety Cluster,14,Non-Approved,"9,10,11,12",256,,2019-2020,1
+02M139,Stephen T. Mather Building Arts & Craftsmanship Hi,True,469999,"Construction Trades, Other",Architecture and Construction Cluster,2,Approved,"9,10,11,12",408,,2019-2020,0
+02M280,Manhattan Early College School for Advertising,True,110899,"Computer Software and Media Applications, Other",Information Technology Cluster,3,Non-Approved,"9,10,11,12",412,,2019-2020,3
+02M282,Urban Assembly Maker Academy,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,3,Approved,"9,10,11,12",355,,2019-2020,0
+02M282,Urban Assembly Maker Academy,True,500102,Digital Arts,"Arts, Audio/Video Technology and Communications Cluster",5,Approved,,0,,2019-2020,0
+02M288,Food and Finance High School,True,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,4,Approved,"9,10,11,12",383,,2019-2020,4
+02M300,"Urban Assembly School of Design and Construction,",False,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,3,Non-Approved,"9,10,11,12",184,,2019-2020,3
+02M392,Manhattan Business Academy,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,6,Approved,"10,11,12",301,,2019-2020,1
+02M393,Business Of Sports School,True,520201,"Business Administration and Management, General",Business Management and Administration Cluster,7,Approved,"9,10,11,12",174,,2019-2020,4
+02M393,Business Of Sports School,True,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,7,Approved,"9,10,11,12",246,,2019-2020,4
+02M420,High School for Health Professions and Human Servi,False,510801,Medical/Clinical Assistant,Health Science Cluster,6,Approved,"10,11,12",295,,2019-2020,2
+02M489,High School of Economics and Finance,False,520304,Accounting and Finance,Business Management and Administration Cluster,5,Non-Approved,"9,10,11,12",478,,2019-2020,1
+02M489,High School of Economics and Finance,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Non-Approved,"9,10,11,12",207,,2019-2020,1
+02M507,Urban Assembly Gateway School for Technology,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,0,Approved,"10,11,12",110,,2019-2020,8
+02M507,Urban Assembly Gateway School for Technology,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,0,Approved,"10,11,12",165,,2019-2020,8
+02M507,Urban Assembly Gateway School for Technology,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",4,Approved,,0,,2019-2020,8
+02M519,Talent Unlimited High School,False,500301,"Dance, General","Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,"9,10,11,12",102,,2019-2020,0
+02M519,Talent Unlimited High School,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,"9,10,11,12",144,,2019-2020,0
+02M529,Jacqueline Kennedy Onassis High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Approved,"9,10,11,12",146,,2019-2020,4
+02M529,Jacqueline Kennedy Onassis High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,3,Approved,"9,10,11,12",128,,2019-2020,4
+02M533,Union Square Academy for Health Sciences,True,510603,Dental Laboratory Technology/Technician,Health Science Cluster,8,Approved,"9,10,11,12",150,,2019-2020,5
+02M533,Union Square Academy for Health Sciences,True,510805,Pharmacy Technician/Assistant,Health Science Cluster,7,Approved,"9,10,11,12",256,,2019-2020,5
+02M542,Manhattan Bridges High School,False,151304,Civil Drafting and Civil Engineering CAD/CADD,Manufacturing Production Cluster,2,Approved,"9,10,11,12",208,,2019-2020,2
+02M542,Manhattan Bridges High School,False,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,"9,10,11,12",240,,2019-2020,2
+02M546,Academy for Software Engineering,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,2,Non-Approved,"9,10,11,12",446,,2019-2020,3
+02M551,Urban Assembly New York Harbor School,True,010303,Aquaculture,"Agriculture, Food and Natural Resources Cluster",0,Approved,"9,10,11,12",80,,2019-2020,9
+02M551,Urban Assembly New York Harbor School,True,030205,"Water, Wetlands and Marine Resources Management","Agriculture, Food and Natural Resources Cluster",0,Approved,"9,10,11,12",99,,2019-2020,9
+02M551,Urban Assembly New York Harbor School,True,470616,Marine Maintenance/Fitter and Ship Repair Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,"9,10,11,12",121,,2019-2020,9
+02M551,Urban Assembly New York Harbor School,True,480599,"Precision Metal Working, Other",Manufacturing Production Cluster,6,Approved,"9,10,11,12",86,,2019-2020,9
+02M551,Urban Assembly New York Harbor School,True,490309,Marine Science/Merchant Marine Officer,"Transportation, Distribution and Logistics Cluster",4,Approved,"9,10,11,12",60,,2019-2020,9
+02M551,Urban Assembly New York Harbor School,True,490399,"Marine Transportation, Other","Transportation, Distribution and Logistics Cluster",0,Non-Approved,"9,10,11,12",71,,2019-2020,9
+02M600,The High School of Fashion Industries,True,190905,Apparel and Textile Marketing Management,Marketing Sales and Services Cluster,0,Approved,"9,10,11,12",273,,2019-2020,4
+02M600,The High School of Fashion Industries,True,500407,Fashion/Apparel Design,"Arts, Audio/Video Technology and Communications Cluster",4,Approved,"9,10,11,12",709,,2019-2020,4
+02M600,The High School of Fashion Industries,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,"9,10,11,12",520,,2019-2020,4
+02M600,The High School of Fashion Industries,True,521902,Fashion Merchandising,Marketing Sales and Services Cluster,5,Approved,"9,10,11,12",69,,2019-2020,4
+02M615,Chelsea Career and Technical Education High School,True,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,6,Approved,"9,10,11,12",98,,2019-2020,5
+02M615,Chelsea Career and Technical Education High School,True,151202,Computer Technology/Computer Systems Technology,Information Technology Cluster,6,Approved,"9,10,11,12",61,,2019-2020,5
+02M615,Chelsea Career and Technical Education High School,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",5,Approved,"9,10,11,12",282,,2019-2020,5
+02M630,Art and Design High School,True,100303,Prepress/Desktop Publishing and Digital Imaging Design,Manufacturing Production Cluster,3,Approved,"9,10,11,12",128,,2019-2020,8
+02M630,Art and Design High School,True,100304,"Animation, Interactive Technology, Video Graphics and Special Effects",Manufacturing Production Cluster,3,Approved,"10,11,12",143,,2019-2020,8
+02M630,Art and Design High School,True,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,3,Approved,"9,10,11,12",114,,2019-2020,8
+02M630,Art and Design High School,True,500402,Commercial and Advertising Art,"Arts, Audio/Video Technology and Communications Cluster",5,Approved,"10,11,12",192,,2019-2020,8
+02M630,Art and Design High School,True,500406,Commercial Photography,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,"9,10,11,12",66,,2019-2020,8
+02M630,Art and Design High School,True,500407,Fashion/Apparel Design,"Arts, Audio/Video Technology and Communications Cluster",9,Approved,"9,10,11,12",103,,2019-2020,8
+02M630,Art and Design High School,True,500410,Illustration,"Arts, Audio/Video Technology and Communications Cluster",4,Approved,"9,10,11,12",569,,2019-2020,8
+02M630,Art and Design High School,True,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",4,Approved,"9,10,11,12",140,,2019-2020,8
+03M299,The Maxine Greene HS for Imaginative Inquiry,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Non-Approved,,0,,2019-2020,1
+03M402,The Urban Assembly School for Green Careers,True,010601,"Applied Horticulture/Horticultural Operations, General","Agriculture, Food and Natural Resources Cluster",5,Approved,"9,10,11,12",146,,2019-2020,1
+03M402,The Urban Assembly School for Green Careers,True,460401,Building/Property Maintenance and Manager,Architecture and Construction Cluster,7,Approved,"9,10,11,12",144,,2019-2020,1
+03M485,Fiorello H. LaGuardia High School of Music & Art a,False,500301,"Dance, General","Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,"9,10,11,12",264,,2019-2020,3
+03M485,Fiorello H. LaGuardia High School of Music & Art a,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",4,Non-Approved,"9,10,11,12",385,,2019-2020,3
+03M485,Fiorello H. LaGuardia High School of Music & Art a,False,500502,Technical Theater/Theater Design and Technology,"Arts, Audio/Video Technology and Communications Cluster",5,Approved,"9,10,11,12",148,,2019-2020,3
+04M435,Manhattan Center for Science and Mathematics,False,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,0,Non-Approved,"11,12",28,,2019-2020,0
+05M157,The Urban Assembly School for Global Commerce,True,520203,Logistics and Materials Management,"Transportation, Distribution and Logistics Cluster",5,Non-Approved,"9,10,11,12",208,,2019-2020,0
+05M362,Columbia Secondary School,False,150101,Architectural Engineering Technology/Technician,Architecture and Construction Cluster,2,Non-Approved,"9,10,11,12",397,,2019-2020,0
+05M692,"High School for Mathematics, Science and Engineeri",False,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,3,Non-Approved,"9,10,11,12",404,,2019-2020,1
+06M211,Inwood Early College for Health and Information Te,True,110103,Information Technology,Information Technology Cluster,2,Approved,"9,10,11,12",383,,2019-2020,2
+06M211,Inwood Early College for Health and Information Te,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,2,Non-Approved,,0,,2019-2020,2
+06M467,High School for Law and Public Service,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,8,Non-Approved,"9,10,11,12",242,,2019-2020,1
+06M468,High School for Health Careers and Sciences,False,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,2,Non-Approved,"9,10,11,12",180,,2019-2020,5
+07X259,"H.E.R.O. High (Health, Education, and Research Occ",True,511613,Licensed Practical/Vocational Nurse Training,Health Science Cluster,2,Non-Approved,"9,10,11,12",335,,2019-2020,1
+07X522,Bronx Design and Construction Academy,True,150501,"Heating, Air Conditioning and Refrigeration Technology/Technician",Scientific Research and Engineering Cluster,3,Approved,"9,10,11,12",40,,2019-2020,7
+07X522,Bronx Design and Construction Academy,True,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,2,Approved,"9,10,11,12",75,,2019-2020,7
+07X522,Bronx Design and Construction Academy,True,460201,Carpentry/Carpenter,Architecture and Construction Cluster,3,Approved,"9,10,11,12",86,,2019-2020,7
+07X522,Bronx Design and Construction Academy,True,460302,Electrician,Architecture and Construction Cluster,3,Approved,"9,10,11,12",58,,2019-2020,7
+07X522,Bronx Design and Construction Academy,True,460503,Plumbing Technology/Plumber,Architecture and Construction Cluster,4,Approved,"9,10,11,12",76,,2019-2020,7
+07X600,Alfred E. Smith Career and Technical Education Hig,True,470603,Autobody/Collision and Repair Technology/Technician,"Transportation, Distribution and Logistics Cluster",4,Approved,"9,10,11,12",79,,2019-2020,8
+07X600,Alfred E. Smith Career and Technical Education Hig,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",4,Approved,"9,10,11,12",254,,2019-2020,8
+07X600,Alfred E. Smith Career and Technical Education Hig,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,"9,10,11,12",90,,2019-2020,8
+08X530,Longwood Preparatory Academy,False,090702,Digital Communication and Media/Multimedia,"Arts, Audio/Video Technology and Communications Cluster",7,Approved,"9,10,11,12",225,,2019-2020,5
+08X559,School for Tourism and Hospitality,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,1,Non-Approved,"9,10,11,12",128,,2019-2020,1
+09X324,Bronx Early College Academy for Teaching & Learnin,False,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,3,Non-Approved,"9,10,11,12",263,,2019-2020,1
+09X365,Academy for Language and Technology,False,110199,"Computer Science, Other",Information Technology Cluster,0,Approved,"9,10,11,12",194,,2019-2020,2
+09X365,Academy for Language and Technology,False,110899,"Computer Software and Media Applications, Other",Information Technology Cluster,1,Approved,"9,10,11,12",160,,2019-2020,2
+09X403,Bronx International High School,False,110801,"Web Page, Digital/Multimedia and Information Resources Design",Information Technology Cluster,6,Non-Approved,"9,10,11,12",178,,2019-2020,3
+09X403,Bronx International High School,False,151001,Construction Engineering Technology/Technician,Architecture and Construction Cluster,5,Approved,"9,10,11,12",224,,2019-2020,3
+09X412,Bronx High School of Business,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,5,Non-Approved,"9,10,11,12",136,,2019-2020,1
+10X213,Bronx Engineering and Technology Academy,False,151199,"Engineering Technology, Other",Scientific Research and Engineering Cluster,4,Approved,"9,10,11,12",334,,2019-2020,3
+10X237,"The Marie Curie School for Medicine, Nursing, and",False,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,2,Non-Approved,"9,10,11,12",55,,2019-2020,0
+10X264,Bronx Academy for Software Engineering (BASE),True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,4,Approved,"9,10,11,12",394,,2019-2020,2
+10X284,Bronx School of Law and Finance,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,8,Non-Approved,"11,12",91,,2019-2020,0
+10X284,Bronx School of Law and Finance,False,520304,Accounting and Finance,Business Management and Administration Cluster,2,Non-Approved,"9,10,11,12",148,,2019-2020,0
+10X368,In-Tech Academy (M.S. / High School 368),False,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,3,Approved,"9,10,11,12",127,,2019-2020,7
+10X368,In-Tech Academy (M.S. / High School 368),False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Approved,"9,10,11,12",137,,2019-2020,7
+10X437,Fordham High School for the Arts,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",7,Non-Approved,"9,10,11,12",179,,2019-2020,1
+10X439,Bronx High School for Law and Community Service,False,430107,Criminal Justice/Police Science,Law and Public Safety Cluster,8,Non-Approved,"9,10,11,12",157,,2019-2020,3
+10X524,Crotona International High School,True,100203,Recording Arts Technology/Technician,"Arts, Audio/Video Technology and Communications Cluster",5,Approved,"9,10,11,12",342,,2019-2020,2
+10X565,High School for Energy and Technology,True,460302,Electrician,Architecture and Construction Cluster,7,Approved,"9,10,11,12",362,,2019-2020,6
+11X270,Academy for Scholarship and Entrepreneurship: A Co,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,5,Approved,"9,10,11,12",257,,2019-2020,5
+11X270,Academy for Scholarship and Entrepreneurship: A Co,False,521401,"Marketing/Marketing Management, General",Marketing Sales and Services Cluster,3,Approved,"9,11,12",77,,2019-2020,5
+11X275,High School of Computers and Technology,True,151202,Computer Technology/Computer Systems Technology,Information Technology Cluster,6,Approved,"9,10,11,12",563,,2019-2020,7
+11X418,Bronx High School for the Visual Arts,False,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",4,Approved,"9,10,11,12",357,,2019-2020,1
+11X508,Bronxdale High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,2,Non-Approved,"9,10,11,12",198,,2019-2020,0
+11X545,Bronx Aerospace High School,False,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,3,Approved,"9,10,11,12",161,,2019-2020,5
+13K419,"Science Skills Center High School for Science, Tec",False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,4,Approved,"9,10,11,12",204,,2019-2020,4
+13K419,"Science Skills Center High School for Science, Tec",False,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,3,Approved,"9,10,11,12",123,,2019-2020,4
+13K430,Brooklyn Technical High School,False,090102,Mass Communications/Media Studies,"Arts, Audio/Video Technology and Communications Cluster",7,Approved,"9,10,11,12",829,,2019-2020,9
+13K430,Brooklyn Technical High School,False,150405,Robotics Technology/Technician,Manufacturing Production Cluster,1,Approved,"9,10,11,12",1375,,2019-2020,9
+13K430,Brooklyn Technical High School,False,151301,"Drafting and Design Technology/Technician, General",Manufacturing Production Cluster,1,Approved,"9,10,11,12",2345,,2019-2020,9
+13K430,Brooklyn Technical High School,False,430103,Criminal Justice/Law Enforcement Administration,Law and Public Safety Cluster,9,Non-Approved,"10,11,12",546,,2019-2020,9
+13K605,George Westinghouse Career and Technical Education,True,111004,Web/Multimedia Management and Webmaster,Information Technology Cluster,2,Approved,"10,11,12",144,,2019-2020,9
+13K605,George Westinghouse Career and Technical Education,True,119999,"Computer and Information Sciences and Support Services, Other",Information Technology Cluster,0,Approved,,0,,2019-2020,9
+13K605,George Westinghouse Career and Technical Education,True,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,2,Approved,"9,10,11,12",318,,2019-2020,9
+13K605,George Westinghouse Career and Technical Education,True,460302,Electrician,Architecture and Construction Cluster,5,Approved,"9,10,11,12",137,,2019-2020,9
+13K674,"City Polytechnic High School of Engineering, Archi",True,150101,Architectural Engineering Technology/Technician,Architecture and Construction Cluster,3,Approved,"9,10,11,12",385,,2019-2020,2
+14K454,The Williamsburg High School of Art and Technology,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,0,Non-Approved,"9,10,11,12",312,,2019-2020,3
+14K477,East Williamsburg Scholars Academy,False,430107,Criminal Justice/Police Science,Law and Public Safety Cluster,9,Non-Approved,"9,10,11,12",154,,2019-2020,1
+14K478,"The High School for Enterprise, Business and Techn",False,111002,"System, Networking and LAN/WAN Management/Manager",Information Technology Cluster,1,Approved,"9,10,11,12",270,,2019-2020,16
+14K478,"The High School for Enterprise, Business and Techn",False,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,4,Non-Approved,"9,10,11,12",200,,2019-2020,16
+14K478,"The High School for Enterprise, Business and Techn",False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,6,Approved,"9,10,11,12",246,,2019-2020,16
+14K558,Williamsburg High School for Architecture and Desi,True,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,4,Approved,"9,10,11,12",584,,2019-2020,3
+14K610,A-Tech High School,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",5,Approved,"9,10,11,12",180,,2019-2020,5
+14K610,A-Tech High School,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",2,Approved,"10,11,12",48,,2019-2020,5
+15K497,The Boerum Hill School for International Studies,False,120599,"Culinary Arts and Related Services, Other",Hospitality and Tourism Cluster,5,Approved,"9,10,11,12",209,,2019-2020,1
+15K519,Cobble Hill School of American Studies,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,10,Non-Approved,"9,10,11,12",223,,2019-2020,0
+16K455,Boys and Girls High School,False,460302,Electrician,Architecture and Construction Cluster,4,Approved,"9,10,11,12",88,,2019-2020,4
+16K688,The Brooklyn Academy of Global Finance,False,520201,"Business Administration and Management, General",Business Management and Administration Cluster,3,Approved,"9,10,11,12",118,,2019-2020,0
+17K122,Pathways in Technology Early College High School (,True,150403,Electromechanical Technology/Electromechanical Engineering Technology,Manufacturing Production Cluster,1,Non-Approved,"11,12",28,,2019-2020,4
+17K122,Pathways in Technology Early College High School (,True,151202,Computer Technology/Computer Systems Technology,Information Technology Cluster,2,Non-Approved,"9,10,11,12",508,,2019-2020,4
+17K408,Academy of Hospitality and Tourism,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,5,Approved,"9,10,11,12",92,,2019-2020,1
+17K408,Academy of Hospitality and Tourism,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,5,Approved,"9,10,11,12",136,,2019-2020,1
+17K543,"Science, Technology and Research Early College Hig",False,460302,Electrician,Architecture and Construction Cluster,3,Non-Approved,"10,11,12",98,,2019-2020,1
+17K548,Brooklyn School for Music & Theatre,False,500502,Technical Theater/Theater Design and Technology,"Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,"9,10,11,12",202,,2019-2020,1
+17K600,Clara Barton High School,True,510601,Dental Assisting/Assistant,Health Science Cluster,5,Approved,"9,10,11,12",128,,2019-2020,5
+17K600,Clara Barton High School,True,510603,Dental Laboratory Technology/Technician,Health Science Cluster,3,Approved,"9,10,11,12",223,,2019-2020,5
+17K600,Clara Barton High School,True,511613,Licensed Practical/Vocational Nurse Training,Health Science Cluster,4,Approved,"9,10,11,12",130,,2019-2020,5
+17K600,Clara Barton High School,True,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,3,Approved,"9,10,11,12",270,,2019-2020,5
+17K600,Clara Barton High School,True,511801,Opticianry/Ophthalmic Dispensing Optician,Health Science Cluster,2,Approved,"9,10,11,12",56,,2019-2020,5
+17K751,Academy for Health Careers,True,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,1,Non-Approved,"9,10,11,12",275,,2019-2020,2
+18K567,Brooklyn Theatre Arts High School,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,"9,10,11,12",144,,2019-2020,0
+18K617,High School for Innovation in Advertising and Medi,True,110899,"Computer Software and Media Applications, Other",Information Technology Cluster,4,Non-Approved,"9,10,11,12",191,,2019-2020,3
+19K502,FDNY - Captain Vernon A. Richard High School for F,False,510904,Emergency Medical Technology/Technician (EMT Paramedic),Health Science Cluster,2,Non-Approved,"10,11,12",59,,2019-2020,2
+19K510,World Academy for Total Community Health High Scho,False,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,5,Approved,"9,10,11,12",94,,2019-2020,1
+19K583,Multicultural High School,False,490101,"Aeronautics/Aviation/Aerospace Science and Technology, General","Transportation, Distribution and Logistics Cluster",2,Non-Approved,"9,10,12",13,,2019-2020,1
+19K615,Transit Tech Career and Technical Education High S,True,470101,"Electrical/Electronics Equipment Installation and Repair, General",Information Technology Cluster,0,Approved,"9,10,11,12",131,,2019-2020,8
+19K615,Transit Tech Career and Technical Education High S,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,2,Approved,"9,10,11,12",193,,2019-2020,8
+19K615,Transit Tech Career and Technical Education High S,True,470105,Industrial Electronics Technology/Technician,Manufacturing Production Cluster,2,Approved,"9,10,11,12",14,,2019-2020,8
+19K615,Transit Tech Career and Technical Education High S,True,479999,"Mechanic and Repair Technologies/Technicians, Other","Transportation, Distribution and Logistics Cluster",9,Approved,"9,10,11,12",110,,2019-2020,8
+19K618,Academy of Innovative Technology,True,110801,"Web Page, Digital/Multimedia and Information Resources Design",Information Technology Cluster,0,Approved,"10,11,12",81,,2019-2020,3
+19K618,Academy of Innovative Technology,True,470101,"Electrical/Electronics Equipment Installation and Repair, General",Information Technology Cluster,3,Approved,"9,10,11,12",244,,2019-2020,3
+19K618,Academy of Innovative Technology,True,500411,Game and Interactive Media Design,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,"10,11,12",81,,2019-2020,3
+19K660,W. H. Maxwell Career and Technical Education High,True,100105,Communications Technology/Technician,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,"9,10,11,12",98,,2019-2020,4
+19K660,W. H. Maxwell Career and Technical Education High,True,120401,"Cosmetology/Cosmetologist, General",Marketing Sales and Services Cluster,0,Approved,"9,10,11,12",156,,2019-2020,4
+19K660,W. H. Maxwell Career and Technical Education High,True,500407,Fashion/Apparel Design,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,"10,11,12",31,,2019-2020,4
+19K660,W. H. Maxwell Career and Technical Education High,True,511006,Ophthalmic Laboratory Technology/Technician,Health Science Cluster,3,Approved,"9,10,11,12",107,,2019-2020,4
+19K764,The Urban Assembly School for Collaborative Health,True,510801,Medical/Clinical Assistant,Health Science Cluster,5,Approved,,0,,2019-2020,3
+20K445,New Utrecht High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,"9,10,11,12",166,,2019-2020,9
+20K445,New Utrecht High School,False,510714,Medical Insurance Specialist/Medical Biller,Health Science Cluster,6,Non-Approved,"9,10,11,12",307,,2019-2020,9
+20K445,New Utrecht High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,5,Non-Approved,"9,10,11,12",246,,2019-2020,9
+20K445,New Utrecht High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,4,Non-Approved,"9,10,11,12",148,,2019-2020,9
+20K485,High School of Telecommunication Arts and Technolo,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,2,Non-Approved,"9,11,12",184,,2019-2020,0
+20K490,Fort Hamilton High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,8,Non-Approved,"9,10,11,12",100,,2019-2020,4
+20K490,Fort Hamilton High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Non-Approved,"9,10,11,12",640,,2019-2020,4
+21K410,Abraham Lincoln High School,False,510808,Veterinary/Animal Health Technology/Technician and Veterinarian Assistant,Health Science Cluster,2,Approved,"9,10,11,12",321,,2019-2020,4
+21K410,Abraham Lincoln High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Non-Approved,"9,10,11,12",138,,2019-2020,4
+21K525,Edward R. Murrow High School,False,100203,Recording Arts Technology/Technician,"Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,"9,10,11,12",496,,2019-2020,7
+21K525,Edward R. Murrow High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,3,Non-Approved,"9,10,11,12",109,,2019-2020,7
+21K525,Edward R. Murrow High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Approved,"9,10,11,12",633,,2019-2020,7
+21K540,John Dewey High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,2,Non-Approved,"9,10,11,12",332,,2019-2020,2
+21K559,Life Academy High School for Film and Music,False,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,"9,10,11,12",241,,2019-2020,0
+21K620,William E. Grady Career and Technical Education Hi,True,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,4,Approved,"9,10,11,12",127,,2019-2020,2
+21K620,William E. Grady Career and Technical Education Hi,True,151001,Construction Engineering Technology/Technician,Architecture and Construction Cluster,4,Approved,"9,10,11,12",85,,2019-2020,2
+21K620,William E. Grady Career and Technical Education Hi,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,3,Approved,"9,10,11,12",134,,2019-2020,2
+21K620,William E. Grady Career and Technical Education Hi,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",5,Approved,"9,10,11,12",49,,2019-2020,2
+21K620,William E. Grady Career and Technical Education Hi,True,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,4,Approved,"9,10,11,12",44,,2019-2020,2
+21K690,Brooklyn Studio Secondary School,False,500102,Digital Arts,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,"9,10,11,12",304,,2019-2020,2
+22K405,Midwood High School,False,090199,"Communications and Media Studies, Other","Arts, Audio/Video Technology and Communications Cluster",5,Approved,"9,10,11,12",393,,2019-2020,1
+22K405,Midwood High School,False,151302,CAD/CADD Drafting and/or Design Technology/Technician,Manufacturing Production Cluster,2,Approved,"9,10,11,12",456,,2019-2020,1
+22K405,Midwood High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,8,Non-Approved,"9,10,11,12",447,,2019-2020,1
+22K425,James Madison High School,False,110103,Information Technology,Information Technology Cluster,4,Non-Approved,"9,10,11,12",473,,2019-2020,1
+22K425,James Madison High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,8,Non-Approved,"10,11,12",442,,2019-2020,1
+22K425,James Madison High School,False,520899,"Finance and Financial Management Services, Other",Finance Cluster,3,Non-Approved,"10,11,12",74,,2019-2020,1
+24Q264,Academy of Finance and Enterprise,False,520304,Accounting and Finance,Business Management and Administration Cluster,3,Approved,"9,10,11,12",336,,2019-2020,4
+24Q264,Academy of Finance and Enterprise,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Approved,"9,10,11,12",320,,2019-2020,4
+24Q455,Newtown High School,False,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,2,Approved,"9,10,11,12",423,,2019-2020,2
+24Q455,Newtown High School,False,520101,"Business/Commerce, General",Business Management and Administration Cluster,4,Approved,"9,10,11,12",413,,2019-2020,2
+24Q485,Grover Cleveland High School,False,110101,"Computer and Information Sciences, General",Information Technology Cluster,4,Non-Approved,"9,10,11,12",210,,2019-2020,4
+24Q550,High School for Arts and Business,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,4,Non-Approved,"9,10,11,12",311,,2019-2020,0
+24Q550,High School for Arts and Business,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Approved,"9,10,11,12",278,,2019-2020,0
+24Q600,Queens Technical High School,True,110803,Computer Graphics,Information Technology Cluster,4,Approved,"9,10,11,12",107,,2019-2020,14
+24Q600,Queens Technical High School,True,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,3,Approved,"9,10,11,12",186,,2019-2020,14
+24Q600,Queens Technical High School,True,120401,"Cosmetology/Cosmetologist, General",Marketing Sales and Services Cluster,0,Approved,"9,10,11,12",213,,2019-2020,14
+24Q600,Queens Technical High School,True,120402,Barbering/Barber,Marketing Sales and Services Cluster,0,Non-Approved,"9,10,11,12",68,,2019-2020,14
+24Q600,Queens Technical High School,True,150303,"Electrical, Electronic and Communications Engineering Technology/Technician",Scientific Research and Engineering Cluster,2,Approved,"10,11,12",55,,2019-2020,14
+24Q600,Queens Technical High School,True,460302,Electrician,Architecture and Construction Cluster,4,Approved,"9,10,11,12",281,,2019-2020,14
+24Q600,Queens Technical High School,True,460503,Plumbing Technology/Plumber,Architecture and Construction Cluster,4,Approved,"9,10,11,12",220,,2019-2020,14
+24Q600,Queens Technical High School,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,0,Approved,"9,10,11,12",184,,2019-2020,14
+24Q610,Aviation Career & Technical Education High School,True,470608,Aircraft Powerplant Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,"9,10,11,12",2055,,2019-2020,1
+25Q425,John Bowne High School,False,010000,"Agriculture, General","Agriculture, Food and Natural Resources Cluster",0,Approved,"9,10,11,12",587,,2019-2020,3
+25Q425,John Bowne High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,0,Non-Approved,"9,10,11,12",618,,2019-2020,3
+25Q460,Flushing High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,11,Non-Approved,"9,10,11,12",255,,2019-2020,2
+25Q460,Flushing High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Approved,"9,10,11,12",272,,2019-2020,2
+25Q460,Flushing High School,False,521401,"Marketing/Marketing Management, General",Marketing Sales and Services Cluster,5,Approved,,0,,2019-2020,2
+25Q525,Townsend Harris High School,False,090402,Broadcast Journalism,"Arts, Audio/Video Technology and Communications Cluster",1,Non-Approved,"10,11,12",185,,2019-2020,4
+25Q525,Townsend Harris High School,False,150401,Biomedical Technology/Technician,Scientific Research and Engineering Cluster,3,Non-Approved,"10,11,12",160,,2019-2020,4
+25Q525,Townsend Harris High School,False,150405,Robotics Technology/Technician,Manufacturing Production Cluster,1,Non-Approved,"10,11,12",210,,2019-2020,4
+25Q525,Townsend Harris High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,11,Non-Approved,"10,11,12",13,,2019-2020,4
+26Q315,Business Technology Early College High School,True,110103,Information Technology,Information Technology Cluster,1,Non-Approved,"9,10,11,12",522,,2019-2020,0
+26Q430,Francis Lewis High School,False,150405,Robotics Technology/Technician,Manufacturing Production Cluster,1,Non-Approved,"9,10,11,12",202,,2019-2020,2
+26Q430,Francis Lewis High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,8,Non-Approved,,0,,2019-2020,2
+26Q430,Francis Lewis High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,4,Non-Approved,"9,10,11,12",268,,2019-2020,2
+26Q495,Bayside High School,False,090702,Digital Communication and Media/Multimedia,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,"9,10,11,12",518,,2019-2020,8
+26Q495,Bayside High School,False,100203,Recording Arts Technology/Technician,"Arts, Audio/Video Technology and Communications Cluster",12,Approved,"9,10,11,12",472,,2019-2020,8
+26Q495,Bayside High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,0,Approved,"9,10,11,12",582,,2019-2020,8
+26Q495,Bayside High School,False,150507,Environmental Engineering Technology/Environmental Technology,"Agriculture, Food and Natural Resources Cluster",5,Approved,"9,10,11,12",360,,2019-2020,8
+26Q495,Bayside High School,False,399031,Fitness Trainers & Aerobics Instructors,Education and Training Cluster,10,Approved,"9,10,11,12",675,,2019-2020,8
+26Q495,Bayside High School,False,520201,"Business Administration and Management, General",Business Management and Administration Cluster,0,Approved,"9,10,11,12",299,,2019-2020,8
+27Q302,"Queens High School for Information, Research, and",False,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,3,Non-Approved,"9,10,11,12",109,,2019-2020,2
+27Q324,Rockaway Park High School for Environmental Sustai,False,460201,Carpentry/Carpenter,Architecture and Construction Cluster,3,Non-Approved,"9,10,11,12",93,,2019-2020,2
+27Q351,Rockaway Collegiate High School,False,110801,"Web Page, Digital/Multimedia and Information Resources Design",Information Technology Cluster,0,Non-Approved,"9,10,11,12",162,,2019-2020,0
+27Q400,August Martin High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,1,Non-Approved,"10,11,12",101,,2019-2020,2
+27Q475,Richmond Hill High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,0,Non-Approved,"9,10,11,12",85,,2019-2020,7
+27Q475,Richmond Hill High School,False,520903,Tourism and Travel Services Management,Hospitality and Tourism Cluster,6,Approved,"9,10,11,12",161,,2019-2020,7
+27Q480,John Adams High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,10,Non-Approved,"9,10,11,12",228,,2019-2020,3
+27Q650,"High School for Construction Trades, Engineering a",True,151001,Construction Engineering Technology/Technician,Architecture and Construction Cluster,0,Approved,"9,10,11,12",339,,2019-2020,9
+27Q650,"High School for Construction Trades, Engineering a",True,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,7,Approved,"9,10,11,12",366,,2019-2020,9
+27Q650,"High School for Construction Trades, Engineering a",True,151304,Civil Drafting and Civil Engineering CAD/CADD,Manufacturing Production Cluster,7,Approved,"9,10,11,12",394,,2019-2020,9
+28Q440,Forest Hills High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,"9,10,11,12",517,,2019-2020,2
+28Q440,Forest Hills High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,4,Approved,"9,10,11,12",674,,2019-2020,2
+28Q505,Hillcrest High School,False,110199,"Computer Science, Other",Information Technology Cluster,4,Approved,,0,,2019-2020,7
+28Q505,Hillcrest High School,False,151302,CAD/CADD Drafting and/or Design Technology/Technician,Manufacturing Production Cluster,4,Approved,"9,10,11,12",82,,2019-2020,7
+28Q505,Hillcrest High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,12,Non-Approved,"9,10,11,12",262,,2019-2020,7
+28Q505,Hillcrest High School,False,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,3,Approved,"10,11,12",135,,2019-2020,7
+28Q505,Hillcrest High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,3,Approved,"10,11,12",68,,2019-2020,7
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,100305,"Graphic and Printing Equipment Operator, General Production",Manufacturing Production Cluster,4,Approved,"9,10,11,12",191,,2019-2020,17
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,110901,Computer Systems Networking and Telecommunications,Information Technology Cluster,5,Approved,"9,10,11,12",166,,2019-2020,17
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,111003,Computer and Information Systems Security,Information Technology Cluster,0,Approved,"9,10,11,12",217,,2019-2020,17
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,111004,Web/Multimedia Management and Webmaster,Information Technology Cluster,3,Approved,"9,10,11,12",204,,2019-2020,17
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,150405,Robotics Technology/Technician,Manufacturing Production Cluster,2,Approved,"9,10,11,12",183,,2019-2020,17
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,151306,Mechanical Drafting and Mechanical Drafting CAD/CADD,Manufacturing Production Cluster,2,Approved,"9,10,11,12",208,,2019-2020,17
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,460302,Electrician,Architecture and Construction Cluster,3,Approved,"9,10,11,12",110,,2019-2020,17
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,470104,Computer Installation and Repair Technology/Technician,Information Technology Cluster,5,Approved,"9,10,11,12",225,,2019-2020,17
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,470603,Autobody/Collision and Repair Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,"9,10,11,12",101,,2019-2020,17
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",9,Approved,"9,10,11,12",340,,2019-2020,17
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,500402,Commercial and Advertising Art,"Arts, Audio/Video Technology and Communications Cluster",4,Approved,"9,10,11,12",114,,2019-2020,17
+28Q620,Thomas A. Edison Career and Technical Education Hi,True,511099,"Clinical/Medical Laboratory Science and Allied Professions, Other",Health Science Cluster,3,Approved,"9,10,11,12",106,,2019-2020,17
+29Q243,Institute for Health Professions at Cambria Height,True,510810,Emergency Care Attendant (EMT Ambulance),Health Science Cluster,2,Non-Approved,,0,,2019-2020,2
+29Q243,Institute for Health Professions at Cambria Height,True,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,2,Non-Approved,"9,10,11,12",441,,2019-2020,2
+29Q272,George Washington Carver High School for the Scien,False,510808,Veterinary/Animal Health Technology/Technician and Veterinarian Assistant,Health Science Cluster,1,Approved,"9,10,11,12",174,,2019-2020,2
+29Q313,Benjamin Franklin High School for Finance & Inform,True,110103,Information Technology,Information Technology Cluster,4,Approved,"9,10,11,12",289,,2019-2020,5
+29Q313,Benjamin Franklin High School for Finance & Inform,True,520304,Accounting and Finance,Business Management and Administration Cluster,2,Non-Approved,"9,10,11,12",121,,2019-2020,5
+29Q326,Cambria Heights Academy,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,4,Non-Approved,"9,10,11,12",361,,2019-2020,3
+30Q258,Energy Tech High School,True,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,2,Non-Approved,"9,10,11,12",457,,2019-2020,2
+30Q286,"Young Women's Leadership School, Astoria",False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,4,Non-Approved,"9,11",46,,2019-2020,4
+30Q301,Academy for Careers in Television and Film,True,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",5,Approved,"9,10,11,12",550,,2019-2020,1
+30Q445,William Cullen Bryant High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,9,Non-Approved,"9,10,11,12",390,,2019-2020,3
+30Q450,Long Island City High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,7,Approved,"9,10,11,12",226,,2019-2020,11
+30Q450,Long Island City High School,False,399031,Fitness Trainers & Aerobics Instructors,Education and Training Cluster,2,Non-Approved,"9,10,11,12",553,,2019-2020,11
+30Q450,Long Island City High School,False,520901,"Hospitality Administration/Management, General",Hospitality and Tourism Cluster,5,Approved,"9,10,11,12",280,,2019-2020,11
+30Q501,Frank Sinatra School of the Arts High School,False,500301,"Dance, General","Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,"9,10,11,12",125,,2019-2020,0
+30Q501,Frank Sinatra School of the Arts High School,False,500501,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications Cluster",2,Non-Approved,"9,10,11,12",139,,2019-2020,0
+30Q502,Information Technology High School,False,110801,"Web Page, Digital/Multimedia and Information Resources Design",Information Technology Cluster,3,Approved,"10,11,12",95,,2019-2020,5
+30Q502,Information Technology High School,False,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,"10,11,12",95,,2019-2020,5
+31R440,New Dorp High School,False,090702,Digital Communication and Media/Multimedia,"Arts, Audio/Video Technology and Communications Cluster",6,Approved,"9,10,11,12",375,,2019-2020,13
+31R440,New Dorp High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,4,Non-Approved,10,2,,2019-2020,13
+31R440,New Dorp High School,False,430106,Forensic Science and Technology,Law and Public Safety Cluster,3,Non-Approved,"9,10,11,12",453,,2019-2020,13
+31R440,New Dorp High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,11,Non-Approved,"9,10,11,12",285,,2019-2020,13
+31R440,New Dorp High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,6,Approved,"9,10,11,12",397,,2019-2020,13
+31R445,Port Richmond High School,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,4,Approved,"9,10,11,12",385,,2019-2020,5
+31R445,Port Richmond High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Non-Approved,"11,12",24,,2019-2020,5
+31R450,Curtis High School,False,090102,Mass Communications/Media Studies,"Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,"9,10,11,12",269,,2019-2020,4
+31R450,Curtis High School,False,110301,Data Processing Technology/Technician,Information Technology Cluster,3,Non-Approved,"9,10,11,12",439,,2019-2020,4
+31R450,Curtis High School,False,430107,Criminal Justice/Police Science,Law and Public Safety Cluster,36,Non-Approved,"9,10,11,12",375,,2019-2020,4
+31R450,Curtis High School,False,500301,"Dance, General","Arts, Audio/Video Technology and Communications Cluster",4,Non-Approved,"9,10,11,12",106,,2019-2020,4
+31R450,Curtis High School,False,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",3,Non-Approved,"9,10,11,12",322,,2019-2020,4
+31R450,Curtis High School,False,511613,Licensed Practical/Vocational Nurse Training,Health Science Cluster,0,Approved,"10,11,12",56,,2019-2020,4
+31R450,Curtis High School,False,511614,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science Cluster,2,Approved,"9,10,11,12",280,,2019-2020,4
+31R455,Tottenville High School,False,090903,Advertising,"Arts, Audio/Video Technology and Communications Cluster",5,Approved,"10,11,12",98,,2019-2020,13
+31R455,Tottenville High School,False,110201,"Computer Programming/Programmer, General",Information Technology Cluster,1,Non-Approved,"10,11,12",95,,2019-2020,13
+31R455,Tottenville High School,False,120500,"Cooking and Related Culinary Arts, General",Hospitality and Tourism Cluster,5,Approved,"10,11,12",114,,2019-2020,13
+31R455,Tottenville High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,10,Non-Approved,"10,11,12",159,,2019-2020,13
+31R455,Tottenville High School,False,470604,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,"9,10,11,12",146,,2019-2020,13
+31R455,Tottenville High School,False,510603,Dental Laboratory Technology/Technician,Health Science Cluster,4,Approved,"10,11,12",80,,2019-2020,13
+31R455,Tottenville High School,False,510699,"Dental Services and Allied Professions, Other",Health Science Cluster,3,Approved,"10,11,12",80,,2019-2020,13
+31R455,Tottenville High School,False,510899,"Health/Medical Assisting Services, Other",Health Science Cluster,5,Approved,"11,12",123,,2019-2020,13
+31R455,Tottenville High School,False,520304,Accounting and Finance,Business Management and Administration Cluster,4,Non-Approved,"10,11,12",198,,2019-2020,13
+31R460,Susan E. Wagner High School,False,430199,"Corrections and Criminal Justice, Other",Law and Public Safety Cluster,0,Non-Approved,"9,10,11,12",315,,2019-2020,5
+31R460,Susan E. Wagner High School,False,520701,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration Cluster,2,Non-Approved,"9,10,11,12",98,,2019-2020,5
+31R600,Ralph R. McKee Career and Technical Education High,True,090702,Digital Communication and Media/Multimedia,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,"9,10,11,12",64,,2019-2020,10
+31R600,Ralph R. McKee Career and Technical Education High,True,110201,"Computer Programming/Programmer, General",Information Technology Cluster,3,Non-Approved,"9,10,11,12",195,,2019-2020,10
+31R600,Ralph R. McKee Career and Technical Education High,True,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,2,Approved,"9,10,11,12",61,,2019-2020,10
+31R600,Ralph R. McKee Career and Technical Education High,True,150803,Automotive Engineering Technology/Technician,"Transportation, Distribution and Logistics Cluster",3,Approved,"9,10,11,12",121,,2019-2020,10
+31R600,Ralph R. McKee Career and Technical Education High,True,460201,Carpentry/Carpenter,Architecture and Construction Cluster,3,Approved,"9,10,11,12",111,,2019-2020,10
+31R600,Ralph R. McKee Career and Technical Education High,True,460302,Electrician,Architecture and Construction Cluster,2,Approved,"9,10,11,12",90,,2019-2020,10
+31R600,Ralph R. McKee Career and Technical Education High,True,500409,Graphic Design,"Arts, Audio/Video Technology and Communications Cluster",3,Approved,"9,10,11,12",159,,2019-2020,10
+31R605,Staten Island Technical High School,False,150000,"Engineering Technology, General",Scientific Research and Engineering Cluster,1,Approved,"9,10,11,12",1218,,2019-2020,3
+33K891,Brooklyn STEAM Center,False,110103,Information Technology,Information Technology Cluster,4,Approved,"11,12",48,,2019-2020,8
+33K891,Brooklyn STEAM Center,False,120503,Culinary Arts/Chef Training,Hospitality and Tourism Cluster,2,Approved,"11,12",48,,2019-2020,8
+33K891,Brooklyn STEAM Center,False,151303,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production Cluster,3,Approved,"11,12",41,,2019-2020,8
+33K891,Brooklyn STEAM Center,False,469999,"Construction Trades, Other",Architecture and Construction Cluster,3,Approved,"11,12",42,,2019-2020,8
+33K891,Brooklyn STEAM Center,False,500602,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications Cluster",4,Approved,"11,12",47,,2019-2020,8
